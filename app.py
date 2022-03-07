@@ -22,14 +22,6 @@ content = read_file(file)
 json_content = []
 for line in content[1:]:
     line = line.strip('\n')
-    # line_dict = {}
-    # for i, header in enumerate(headers):
-    #     field = None
-    #     try:
-    #         field = line.split('\t')[i]
-    #     except:
-    #         pass
-    #     line_dict[header] = field
     line_dict = camp.fromText(line)
     json_content.append(line_dict)
 
