@@ -1,0 +1,7382 @@
+[
+    {
+        "field": "Ceratitis capitata",
+        "value": 204
+    },
+    {
+        "field": "Synthetic construct",
+        "value": 4324
+    },
+    {
+        "field": "Bos taurus ",
+        "value": 8625
+    },
+    {
+        "field": "Homo sapiens ",
+        "value": 14808
+    },
+    {
+        "field": "Phyllomedusa azurea ",
+        "value": 287
+    },
+    {
+        "field": "Pleurotus ostreatus ",
+        "value": 8
+    },
+    {
+        "field": "Vigna unguiculata subsp. sesquipedalis ",
+        "value": 10
+    },
+    {
+        "field": "Vespa magnifica ",
+        "value": 134
+    },
+    {
+        "field": "Ixodes sinensis  ",
+        "value": 55
+    },
+    {
+        "field": "Polistes dominulus",
+        "value": 34
+    },
+    {
+        "field": "Phaseolus vulgaris ",
+        "value": 285
+    },
+    {
+        "field": "Amolops loloensis",
+        "value": 1651
+    },
+    {
+        "field": " Amolops loloensis",
+        "value": 13
+    },
+    {
+        "field": "Polybia paulista",
+        "value": 54
+    },
+    {
+        "field": "Sus scrofa",
+        "value": 1928
+    },
+    {
+        "field": "Pacifastacus leniusculus",
+        "value": 414
+    },
+    {
+        "field": "Litoria splendida ",
+        "value": 122
+    },
+    {
+        "field": "Rana temporaria",
+        "value": 364
+    },
+    {
+        "field": "Phyllomedusa hypochondrialis",
+        "value": 661
+    },
+    {
+        "field": "Bungarus fasciatus",
+        "value": 197
+    },
+    {
+        "field": "Bombina orientalis",
+        "value": 166
+    },
+    {
+        "field": "Bombina variegata",
+        "value": 177
+    },
+    {
+        "field": "Lachesana tarabaevi",
+        "value": 1450
+    },
+    {
+        "field": "Carnobacterium divergens ",
+        "value": 86
+    },
+    {
+        "field": "Ganoderma lucidum ",
+        "value": 27
+    },
+    {
+        "field": "Manduca sexta",
+        "value": 395
+    },
+    {
+        "field": "Hyalophora cecropia",
+        "value": 748
+    },
+    {
+        "field": "Antheraea pernyi",
+        "value": 113
+    },
+    {
+        "field": "Meleagris gallopavo",
+        "value": 293
+    },
+    {
+        "field": "Zophobas atratus ",
+        "value": 160
+    },
+    {
+        "field": "Drosophila melanogaster",
+        "value": 1041
+    },
+    {
+        "field": "Rana rugosa ",
+        "value": 287
+    },
+    {
+        "field": "Oryctolagus cuniculus",
+        "value": 1509
+    },
+    {
+        "field": "Vespa crabro",
+        "value": 13
+    },
+    {
+        "field": "Mus musculus ",
+        "value": 4985
+    },
+    {
+        "field": "Aeshna cyanea ",
+        "value": 38
+    },
+    {
+        "field": "Protophormia terraenovae ",
+        "value": 216
+    },
+    {
+        "field": " Rana ornativentris ",
+        "value": 54
+    },
+    {
+        "field": "Rana sakuraii",
+        "value": 222
+    },
+    {
+        "field": "Oncorhynchus mykiss",
+        "value": 619
+    },
+    {
+        "field": "Rana guentheri",
+        "value": 134
+    },
+    {
+        "field": "Rana sevosa",
+        "value": 237
+    },
+    {
+        "field": "Litoria gracilenta",
+        "value": 97
+    },
+    {
+        "field": "Halocynthia aurantium ",
+        "value": 63
+    },
+    {
+        "field": "Hadrurus aztecus ",
+        "value": 41
+    },
+    {
+        "field": "Lactococcus lactis subsp. lactis ",
+        "value": 393
+    },
+    {
+        "field": "Xenopus laevis",
+        "value": 721
+    },
+    {
+        "field": "Zea mays ",
+        "value": 670
+    },
+    {
+        "field": "Haemaphysalis longicornis ",
+        "value": 96
+    },
+    {
+        "field": "Limulus polyphemus ",
+        "value": 137
+    },
+    {
+        "field": "Hoplobatrachus tigerinus ",
+        "value": 46
+    },
+    {
+        "field": "Sarcophaga peregrina",
+        "value": 1424
+    },
+    {
+        "field": " Bos taurus ",
+        "value": 117
+    },
+    {
+        "field": "Cavia porcellus",
+        "value": 2156
+    },
+    {
+        "field": "Tachypleus tridentatus ",
+        "value": 1394
+    },
+    {
+        "field": "Tachypleus gigas",
+        "value": 34
+    },
+    {
+        "field": "Trichoderma longibrachiatum ",
+        "value": 38
+    },
+    {
+        "field": "Pyrularia pubera",
+        "value": 47
+    },
+    {
+        "field": "Phyllomedusa bicolor ",
+        "value": 247
+    },
+    {
+        "field": "Phyllomedusa bicolor",
+        "value": 465
+    },
+    {
+        "field": "Pseudacanthotermes spiniger ",
+        "value": 36
+    },
+    {
+        "field": "Cullen corylifolium ",
+        "value": 20
+    },
+    {
+        "field": "Lycosa singoriensis",
+        "value": 1058
+    },
+    {
+        "field": "Galleria mellonella",
+        "value": 1033
+    },
+    {
+        "field": "Rana tagoi ",
+        "value": 204
+    },
+    {
+        "field": "Rana pleuraden",
+        "value": 104
+    },
+    {
+        "field": "Odorrana grahami",
+        "value": 1030
+    },
+    {
+        "field": "Ciona intestinalis ",
+        "value": 185
+    },
+    {
+        "field": "Macaca mulatta",
+        "value": 1562
+    },
+    {
+        "field": "Androctonus australis",
+        "value": 96
+    },
+    {
+        "field": "Rana dybowskii",
+        "value": 504
+    },
+    {
+        "field": "Apis mellifera",
+        "value": 680
+    },
+    {
+        "field": "Mirabilis jalapa",
+        "value": 73
+    },
+    {
+        "field": "Amaranthus caudatus",
+        "value": 59
+    },
+    {
+        "field": "Mus musculus",
+        "value": 4563
+    },
+    {
+        "field": " Sus scrofa",
+        "value": 60
+    },
+    {
+        "field": "Sus scrofa ",
+        "value": 5295
+    },
+    {
+        "field": "Bombyx mori",
+        "value": 788
+    },
+    {
+        "field": "Oldenlandia affinis ",
+        "value": 60
+    },
+    {
+        "field": "Chassalia parviflora ",
+        "value": 180
+    },
+    {
+        "field": "Psychotria longipes ",
+        "value": 31
+    },
+    {
+        "field": "Morone chrysops",
+        "value": 46
+    },
+    {
+        "field": "Morone saxatilis",
+        "value": 46
+    },
+    {
+        "field": "Pachycondyla goeldii ",
+        "value": 361
+    },
+    {
+        "field": " Pachycondyla goeldii ",
+        "value": 19
+    },
+    {
+        "field": "Litoria raniformis",
+        "value": 150
+    },
+    {
+        "field": "Litoria aurea",
+        "value": 76
+    },
+    {
+        "field": "Litoria genimaculata ",
+        "value": 89
+    },
+    {
+        "field": "Pisum sativum",
+        "value": 222
+    },
+    {
+        "field": "Acanthoscurria gomesiana",
+        "value": 414
+    },
+    {
+        "field": "Morone chrysops x Morone saxatilis",
+        "value": 131
+    },
+    {
+        "field": "Pseudis paradoxa",
+        "value": 94
+    },
+    {
+        "field": "Oxyopes kitabensis ",
+        "value": 196
+    },
+    {
+        "field": "Dolabella auricularia",
+        "value": 33
+    },
+    {
+        "field": "Bombina maxima",
+        "value": 1202
+    },
+    {
+        "field": "Tenebrio molitor",
+        "value": 121
+    },
+    {
+        "field": "Podisus maculiventris",
+        "value": 21
+    },
+    {
+        "field": "Rattus norvegicus",
+        "value": 4189
+    },
+    {
+        "field": "Equus caballus ",
+        "value": 2109
+    },
+    {
+        "field": "Bufo gargarizans",
+        "value": 60
+    },
+    {
+        "field": "Myrmecia pilosula",
+        "value": 196
+    },
+    {
+        "field": " Helicobacter pylori ",
+        "value": 19
+    },
+    {
+        "field": "Oiketicus kirbyi ",
+        "value": 77
+    },
+    {
+        "field": "Heliothis virescens",
+        "value": 252
+    },
+    {
+        "field": "Vigna radiata var. radiata",
+        "value": 21
+    },
+    {
+        "field": "Spodoptera littoralis ",
+        "value": 102
+    },
+    {
+        "field": "Ginkgo biloba",
+        "value": 40
+    },
+    {
+        "field": "Rana japonica",
+        "value": 69
+    },
+    {
+        "field": "Pandinus imperator",
+        "value": 183
+    },
+    {
+        "field": "Enterococcus faecium ",
+        "value": 1012
+    },
+    {
+        "field": "Cyprinus carpio",
+        "value": 19
+    },
+    {
+        "field": "Basella alba ",
+        "value": 36
+    },
+    {
+        "field": "Cicada flammata ",
+        "value": 55
+    },
+    {
+        "field": "Spinacia oleracea ",
+        "value": 91
+    },
+    {
+        "field": "Spinacia oleracea",
+        "value": 186
+    },
+    {
+        "field": "Parabuthus schlechteri ",
+        "value": 45
+    },
+    {
+        "field": "Staphylococcus epidermidis ",
+        "value": 95
+    },
+    {
+        "field": "Lactobacillus sakei ",
+        "value": 101
+    },
+    {
+        "field": "Opistophthalmus carinatus",
+        "value": 481
+    },
+    {
+        "field": "Opisthacanthus madagascariensis ",
+        "value": 24
+    },
+    {
+        "field": "Holotrichia diomphalia",
+        "value": 199
+    },
+    {
+        "field": "Rhipicephalus microplus",
+        "value": 451
+    },
+    {
+        "field": "Rana pipiens",
+        "value": 217
+    },
+    {
+        "field": "Kassina senegalensis",
+        "value": 109
+    },
+    {
+        "field": "Phyllomedusa sauvagii",
+        "value": 480
+    },
+    {
+        "field": "Litopenaeus vannamei",
+        "value": 847
+    },
+    {
+        "field": "Styela clava",
+        "value": 202
+    },
+    {
+        "field": "Calliphora vicina ",
+        "value": 13
+    },
+    {
+        "field": "Eucommia ulmoides ",
+        "value": 82
+    },
+    {
+        "field": "Hippoglossoides platessoides",
+        "value": 125
+    },
+    {
+        "field": "Limanda ferruginea",
+        "value": 25
+    },
+    {
+        "field": "Glyptocephalus cynoglossus",
+        "value": 131
+    },
+    {
+        "field": "Hippoglossus hippoglossus",
+        "value": 101
+    },
+    {
+        "field": "Rana sphenocephala",
+        "value": 72
+    },
+    {
+        "field": "Myxine glutinosa",
+        "value": 148
+    },
+    {
+        "field": "Epinephelus coioides",
+        "value": 372
+    },
+    {
+        "field": "Cupiennius salei ",
+        "value": 715
+    },
+    {
+        "field": "Pseudopleuronectes americanus",
+        "value": 203
+    },
+    {
+        "field": "Ruminococcus gnavus ",
+        "value": 21
+    },
+    {
+        "field": " Macaca mulatta",
+        "value": 30
+    },
+    {
+        "field": "Bombus pascuorum ",
+        "value": 146
+    },
+    {
+        "field": "Litoria chloris",
+        "value": 72
+    },
+    {
+        "field": "Litoria chloris ",
+        "value": 49
+    },
+    {
+        "field": "Mesocricetus auratus",
+        "value": 550
+    },
+    {
+        "field": "Vicia faba",
+        "value": 94
+    },
+    {
+        "field": "Myrmecia gulosa",
+        "value": 32
+    },
+    {
+        "field": "Misgurnus anguillicaudatus",
+        "value": 21
+    },
+    {
+        "field": "Styela clava ",
+        "value": 122
+    },
+    {
+        "field": "Rana luteiventris",
+        "value": 190
+    },
+    {
+        "field": "Rana berlandieri",
+        "value": 209
+    },
+    {
+        "field": "Rana sylvatica",
+        "value": 24
+    },
+    {
+        "field": "Phyllomedusa distincta",
+        "value": 147
+    },
+    {
+        "field": "Rana catesbeiana",
+        "value": 443
+    },
+    {
+        "field": "Rana clamitans",
+        "value": 175
+    },
+    {
+        "field": " Rana clamitans (green frog)",
+        "value": 13
+    },
+    {
+        "field": "Rana porosa brevipoda ",
+        "value": 57
+    },
+    {
+        "field": "Rana esculenta (edible frog )",
+        "value": 457
+    },
+    {
+        "field": "Rana esculenta",
+        "value": 317
+    },
+    {
+        "field": "Lactobacillus johnsonii ",
+        "value": 57
+    },
+    {
+        "field": "Brassica rapa subsp. rapa",
+        "value": 54
+    },
+    {
+        "field": "Macaca fascicularis",
+        "value": 1263
+    },
+    {
+        "field": "Leuconostoc gelidum ",
+        "value": 37
+    },
+    {
+        "field": "Anopheles gambiae",
+        "value": 511
+    },
+    {
+        "field": "Aedes aegypti",
+        "value": 154
+    },
+    {
+        "field": "Culex pipiens pipiens",
+        "value": 102
+    },
+    {
+        "field": "Lactobacillus amylovorus ",
+        "value": 50
+    },
+    {
+        "field": "Entamoeba histolytica ",
+        "value": 429
+    },
+    {
+        "field": "Bacillus subtilis ",
+        "value": 140
+    },
+    {
+        "field": "Pagrus major",
+        "value": 155
+    },
+    {
+        "field": "Leptodactylus ocellatus",
+        "value": 149
+    },
+    {
+        "field": "Hogna carolinensis",
+        "value": 52
+    },
+    {
+        "field": "Homo sapiens",
+        "value": 6161
+    },
+    {
+        "field": "Gallus gallus",
+        "value": 1572
+    },
+    {
+        "field": "Cicer arietinum",
+        "value": 4231
+    },
+    {
+        "field": "Benincasa hispida ",
+        "value": 275
+    },
+    {
+        "field": "Litoria xanthomera",
+        "value": 50
+    },
+    {
+        "field": "Myrmecia banksi ",
+        "value": 60
+    },
+    {
+        "field": " Allium cepa var. aggregatum",
+        "value": 7
+    },
+    {
+        "field": "Luffa aegyptiaca",
+        "value": 14
+    },
+    {
+        "field": "Rana boylii ",
+        "value": 337
+    },
+    {
+        "field": "Cucurbita maxima",
+        "value": 19
+    },
+    {
+        "field": "Streptococcus mutans ",
+        "value": 71
+    },
+    {
+        "field": "Pediococcus acidilactici ",
+        "value": 44
+    },
+    {
+        "field": "Gymnocladus chinensis ",
+        "value": 10
+    },
+    {
+        "field": "Siniperca chuatsi",
+        "value": 22
+    },
+    {
+        "field": "Rana palustris",
+        "value": 651
+    },
+    {
+        "field": "Litoria dahlii",
+        "value": 26
+    },
+    {
+        "field": "Hypsiboas punctatus",
+        "value": 14
+    },
+    {
+        "field": "Ascaris suum",
+        "value": 361
+    },
+    {
+        "field": "Carnobacterium maltaromaticum",
+        "value": 281
+    },
+    {
+        "field": "Pyrrhocoris apterus ",
+        "value": 196
+    },
+    {
+        "field": "Acalolepta luxuriosa ",
+        "value": 174
+    },
+    {
+        "field": "Ipomoea nil",
+        "value": 81
+    },
+    {
+        "field": "Meleagris gallopavo ",
+        "value": 647
+    },
+    {
+        "field": "Xenopus tropicalis",
+        "value": 157
+    },
+    {
+        "field": "Agelaia pallipes ",
+        "value": 26
+    },
+    {
+        "field": " Lactobacillus sakei ",
+        "value": 41
+    },
+    {
+        "field": "Mytilus edulis ",
+        "value": 173
+    },
+    {
+        "field": "Phytolacca americana",
+        "value": 38
+    },
+    {
+        "field": "Brassica rapa subsp. chinensis ",
+        "value": 263
+    },
+    {
+        "field": "Pleurotus eryngii ",
+        "value": 25
+    },
+    {
+        "field": "Canis lupus familiaris",
+        "value": 467
+    },
+    {
+        "field": "Rana nigromaculata (dark-spotted frog )",
+        "value": 54
+    },
+    {
+        "field": "Litoria aurea (green and golden bell frog )",
+        "value": 58
+    },
+    {
+        "field": "Litoria aurea (green and golden bell frog)",
+        "value": 33
+    },
+    {
+        "field": "Phyllomedusa oreades ",
+        "value": 68
+    },
+    {
+        "field": "Capra hircus ",
+        "value": 4329
+    },
+    {
+        "field": "Lentinus sajor-caju",
+        "value": 10
+    },
+    {
+        "field": "Chinchilla lanigera ",
+        "value": 332
+    },
+    {
+        "field": "Fenneropenaeus chinensis ",
+        "value": 360
+    },
+    {
+        "field": "Gallus gallus ",
+        "value": 4038
+    },
+    {
+        "field": "Mesobuthus martensii",
+        "value": 223
+    },
+    {
+        "field": "Archaeoprepona demophon ",
+        "value": 44
+    },
+    {
+        "field": "Musca domestica (house fly )",
+        "value": 45
+    },
+    {
+        "field": "Macadamia integrifolia ",
+        "value": 698
+    },
+    {
+        "field": "Litoria citropa",
+        "value": 96
+    },
+    {
+        "field": "Staphylococcus warneri ",
+        "value": 27
+    },
+    {
+        "field": "Equus caballus",
+        "value": 1115
+    },
+    {
+        "field": "Uperoleia inundata ",
+        "value": 163
+    },
+    {
+        "field": "Uperoleia mjobergii ",
+        "value": 106
+    },
+    {
+        "field": "Litoria ewingii",
+        "value": 13
+    },
+    {
+        "field": "Polyporus alveolaris ",
+        "value": 9
+    },
+    {
+        "field": "Phaseolus coccineus ",
+        "value": 10
+    },
+    {
+        "field": "Agrocybe cylindracea ",
+        "value": 15
+    },
+    {
+        "field": "Allium sativum",
+        "value": 10
+    },
+    {
+        "field": "Odorrana schmackeri",
+        "value": 254
+    },
+    {
+        "field": "Pleurotus citrinopileatus",
+        "value": 117
+    },
+    {
+        "field": "Impatiens balsamina",
+        "value": 80
+    },
+    {
+        "field": " Lactococcus lactis QU 4",
+        "value": 39
+    },
+    {
+        "field": "Locusta migratoria",
+        "value": 206
+    },
+    {
+        "field": "Litoria genimaculata",
+        "value": 63
+    },
+    {
+        "field": "Litopenaeus setiferus",
+        "value": 317
+    },
+    {
+        "field": "Silurus asotus",
+        "value": 19
+    },
+    {
+        "field": "Cryptotympana dubia",
+        "value": 24
+    },
+    {
+        "field": "Oreumenes decoratus",
+        "value": 11
+    },
+    {
+        "field": "Acrocinus longimanus",
+        "value": 140
+    },
+    {
+        "field": "Amaranthus retroflexus",
+        "value": 30
+    },
+    {
+        "field": "Solanum tuberosum",
+        "value": 2437
+    },
+    {
+        "field": "Perinereis aibuhitensis",
+        "value": 51
+    },
+    {
+        "field": "Lactobacillus plantarum",
+        "value": 255
+    },
+    {
+        "field": "Actinomycete Sp9440",
+        "value": 21
+    },
+    {
+        "field": "Enterococcus mundtii",
+        "value": 426
+    },
+    {
+        "field": "Leonia cymosa",
+        "value": 119
+    },
+    {
+        "field": "Palicourea condensata",
+        "value": 37
+    },
+    {
+        "field": "Viola hederacea",
+        "value": 211
+    },
+    {
+        "field": "Viola yedoensis",
+        "value": 93
+    },
+    {
+        "field": "Cocos nucifera",
+        "value": 63
+    },
+    {
+        "field": "Phaseolus vulgaris",
+        "value": 77
+    },
+    {
+        "field": "Rana grahami",
+        "value": 774
+    },
+    {
+        "field": "Bacillus subtilis A1/3",
+        "value": 84
+    },
+    {
+        "field": "Ovis aries",
+        "value": 972
+    },
+    {
+        "field": "Hylobates moloch",
+        "value": 73
+    },
+    {
+        "field": "Cercopithecidae",
+        "value": 37
+    },
+    {
+        "field": "Platyrrhini",
+        "value": 37
+    },
+    {
+        "field": "Clostridium beijerinckii",
+        "value": 69
+    },
+    {
+        "field": "Clostridium tyrobutyricum",
+        "value": 82
+    },
+    {
+        "field": "Litoria caerulea",
+        "value": 444
+    },
+    {
+        "field": "Enterococcus sp.",
+        "value": 62
+    },
+    {
+        "field": "Rana grylio",
+        "value": 118
+    },
+    {
+        "field": "Listeria innocua",
+        "value": 43
+    },
+    {
+        "field": "Lactobacillus sakei 5",
+        "value": 43
+    },
+    {
+        "field": "Lactobacillus sakei 2512",
+        "value": 37
+    },
+    {
+        "field": "Enterococcus faecalis YI717",
+        "value": 43
+    },
+    {
+        "field": "Streptococcus uberis",
+        "value": 150
+    },
+    {
+        "field": "Lactobacillus acidophilus",
+        "value": 143
+    },
+    {
+        "field": "Phormia terranovae",
+        "value": 80
+    },
+    {
+        "field": "Lactococcus lactis QU 4",
+        "value": 35
+    },
+    {
+        "field": "Artogeia rapae",
+        "value": 78
+    },
+    {
+        "field": "Enterococcus faecalis",
+        "value": 138
+    },
+    {
+        "field": "Lactobacillus curvatus",
+        "value": 255
+    },
+    {
+        "field": "Enterococcus faecium T8",
+        "value": 44
+    },
+    {
+        "field": "Enterococcus faecium T136",
+        "value": 53
+    },
+    {
+        "field": "Enterococcus faecalis RJ-11",
+        "value": 44
+    },
+    {
+        "field": "haloarchaeon S8a",
+        "value": 36
+    },
+    {
+        "field": "Halobacterium sp. AS7092",
+        "value": 15
+    },
+    {
+        "field": "Enterococcus hirae",
+        "value": 77
+    },
+    {
+        "field": "Pediococcus pentosaceus ATCC 25745",
+        "value": 42
+    },
+    {
+        "field": "Streptococcus salivarius K12",
+        "value": 25
+    },
+    {
+        "field": "Lactococcus lactis",
+        "value": 825
+    },
+    {
+        "field": "Ascaphus truei",
+        "value": 210
+    },
+    {
+        "field": "Escherichia coli",
+        "value": 1728
+    },
+    {
+        "field": "Litoria fallax",
+        "value": 70
+    },
+    {
+        "field": "Melecta albifrons",
+        "value": 18
+    },
+    {
+        "field": "Carcinus maenas",
+        "value": 114
+    },
+    {
+        "field": "Phlebotomus duboscqi",
+        "value": 40
+    },
+    {
+        "field": "Anomala cuprea",
+        "value": 86
+    },
+    {
+        "field": "Mytilus galloprovincialis",
+        "value": 424
+    },
+    {
+        "field": "Oncorhynchus mykiss ",
+        "value": 3257
+    },
+    {
+        "field": "Halibut",
+        "value": 26
+    },
+    {
+        "field": "Triticum aestivum",
+        "value": 397
+    },
+    {
+        "field": "Rhizomucor pusillus",
+        "value": 30
+    },
+    {
+        "field": "Pinus sylvestris",
+        "value": 129
+    },
+    {
+        "field": "Caenorhabditis elegans",
+        "value": 2372
+    },
+    {
+        "field": "Aplysia kurodai",
+        "value": 537
+    },
+    {
+        "field": "Aptenodytes patagonicus",
+        "value": 76
+    },
+    {
+        "field": "Dermacentor variabilis",
+        "value": 36
+    },
+    {
+        "field": "Stomoxys calcitrans",
+        "value": 138
+    },
+    {
+        "field": "Allomyrina dichotoma",
+        "value": 43
+    },
+    {
+        "field": "Naegleria fowleri",
+        "value": 197
+    },
+    {
+        "field": "Oryctes rhinoceros",
+        "value": 117
+    },
+    {
+        "field": "Aesculus hippocastanum",
+        "value": 50
+    },
+    {
+        "field": "Arabidopsis thaliana",
+        "value": 1750
+    },
+    {
+        "field": "Beta vulgaris",
+        "value": 183
+    },
+    {
+        "field": "Clitoria ternatea",
+        "value": 158
+    },
+    {
+        "field": "Heuchera sanguinea",
+        "value": 54
+    },
+    {
+        "field": "Petunia x hybrida",
+        "value": 96
+    },
+    {
+        "field": "Sinapis alba ",
+        "value": 51
+    },
+    {
+        "field": "Sinapis alba",
+        "value": 103
+    },
+    {
+        "field": "Brassica napus",
+        "value": 73
+    },
+    {
+        "field": "Raphanus sativus",
+        "value": 149
+    },
+    {
+        "field": "Hordeum vulgare",
+        "value": 1280
+    },
+    {
+        "field": "Anoplius samariensis",
+        "value": 10
+    },
+    {
+        "field": "Capsicum annuum",
+        "value": 95
+    },
+    {
+        "field": "Nicotiana alata",
+        "value": 47
+    },
+    {
+        "field": "Pseudoplectania nigrella",
+        "value": 40
+    },
+    {
+        "field": "Vigna unguiculata",
+        "value": 93
+    },
+    {
+        "field": "Allium cepa",
+        "value": 93
+    },
+    {
+        "field": "Lens culinaris",
+        "value": 369
+    },
+    {
+        "field": "Oryza sativa Japonica Group",
+        "value": 93
+    },
+    {
+        "field": "Capsella bursa-pastoris",
+        "value": 66
+    },
+    {
+        "field": "Crassostrea gigas",
+        "value": 757
+    },
+    {
+        "field": "Bacillus licheniformis",
+        "value": 88
+    },
+    {
+        "field": "Bacillus thuringiensis serovar entomocidus",
+        "value": 18
+    },
+    {
+        "field": "Struthio camelus",
+        "value": 344
+    },
+    {
+        "field": "Hyas araneus",
+        "value": 250
+    },
+    {
+        "field": "Kocuria varians",
+        "value": 25
+    },
+    {
+        "field": "Leuconostoc mesenteroides",
+        "value": 111
+    },
+    {
+        "field": " Mus musculus",
+        "value": 1723
+    },
+    {
+        "field": "Psalmopoeus cambridgei",
+        "value": 61
+    },
+    {
+        "field": "Papio hamadryas",
+        "value": 378
+    },
+    {
+        "field": "Streptomyces sp.",
+        "value": 56
+    },
+    {
+        "field": "Rana cascadae",
+        "value": 109
+    },
+    {
+        "field": "Ophiophagus hannah",
+        "value": 53
+    },
+    {
+        "field": "Pelophylax saharica",
+        "value": 47
+    },
+    {
+        "field": "Rana tsushimensis",
+        "value": 81
+    },
+    {
+        "field": "Streptomyces globisporus",
+        "value": 108
+    },
+    {
+        "field": "Antheraea mylitta",
+        "value": 565
+    },
+    {
+        "field": "Bean golden mosaic virus-[Brazil]",
+        "value": 42
+    },
+    {
+        "field": "Caretta caretta",
+        "value": 36
+    },
+    {
+        "field": "Pelodiscus sinensis",
+        "value": 42
+    },
+    {
+        "field": "Raphanus sativus var. niger",
+        "value": 87
+    },
+    {
+        "field": "Solanum lycopersicum",
+        "value": 1764
+    },
+    {
+        "field": "Gastrophysa atrocyanea",
+        "value": 41
+    },
+    {
+        "field": "Conus mustelinus",
+        "value": 23
+    },
+    {
+        "field": "Anterhynchium flavomarginatum micado",
+        "value": 14
+    },
+    {
+        "field": "Rana picturata",
+        "value": 223
+    },
+    {
+        "field": "Rana hosii",
+        "value": 239
+    },
+    {
+        "field": "Planobispora rosea",
+        "value": 14
+    },
+    {
+        "field": "Salmo salar",
+        "value": 119
+    },
+    {
+        "field": "Colletotrichum dematium",
+        "value": 7
+    },
+    {
+        "field": "Clavibacter michiganensis subsp. michiganensis",
+        "value": 21
+    },
+    {
+        "field": "Pogonoperca punctata",
+        "value": 112
+    },
+    {
+        "field": "Grammistes sexlineatus",
+        "value": 141
+    },
+    {
+        "field": "Larimichthys crocea",
+        "value": 63
+    },
+    {
+        "field": "Hadrurus gertschi",
+        "value": 183
+    },
+    {
+        "field": "Propionibacterium freudenreichii subsp. freudenreichii",
+        "value": 43
+    },
+    {
+        "field": "Oxyuranus microlepidotus",
+        "value": 50
+    },
+    {
+        "field": "Enterococcus faecium",
+        "value": 183
+    },
+    {
+        "field": "Malva parviflora",
+        "value": 52
+    },
+    {
+        "field": "Bufo andrewsi",
+        "value": 130
+    },
+    {
+        "field": "Dictyostelium discoideum",
+        "value": 598
+    },
+    {
+        "field": "Theromyzon tessulatum",
+        "value": 161
+    },
+    {
+        "field": "Actinidia chinensis",
+        "value": 20
+    },
+    {
+        "field": "Castanopsis chinensis",
+        "value": 15
+    },
+    {
+        "field": "Achromobacter lyticus",
+        "value": 177
+    },
+    {
+        "field": "Anguilla japonica",
+        "value": 161
+    },
+    {
+        "field": "Trimeresurus mucrosquamatus",
+        "value": 24
+    },
+    {
+        "field": "Crotalus durissus cascavella",
+        "value": 61
+    },
+    {
+        "field": "Bothrops pirajai",
+        "value": 49
+    },
+    {
+        "field": "Spodoptera litura",
+        "value": 73
+    },
+    {
+        "field": "Triticum kiharae",
+        "value": 583
+    },
+    {
+        "field": "Lumbricus rubellus",
+        "value": 91
+    },
+    {
+        "field": "Kassina maculata (spotted running frog)",
+        "value": 101
+    },
+    {
+        "field": "Hediste diversicolor",
+        "value": 22
+    },
+    {
+        "field": "Psidium guajava",
+        "value": 55
+    },
+    {
+        "field": "Dahlia merckii",
+        "value": 50
+    },
+    {
+        "field": "Rana chensinensis",
+        "value": 416
+    },
+    {
+        "field": "Propionibacterium jensenii",
+        "value": 64
+    },
+    {
+        "field": "Anemonia sulcata",
+        "value": 43
+    },
+    {
+        "field": "Palomena prasina",
+        "value": 105
+    },
+    {
+        "field": "Streptococcus salivarius ",
+        "value": 22
+    },
+    {
+        "field": " Bombina variegata",
+        "value": 27
+    },
+    {
+        "field": "Agalychnis callidryas",
+        "value": 164
+    },
+    {
+        "field": "Litoria infrafrenata ",
+        "value": 22
+    },
+    {
+        "field": "Aedes albopictus",
+        "value": 278
+    },
+    {
+        "field": "Drosophila simulans ",
+        "value": 326
+    },
+    {
+        "field": "Streptococcus pyogenes ",
+        "value": 26
+    },
+    {
+        "field": "Litoria infrafrenata",
+        "value": 51
+    },
+    {
+        "field": "Litoria gilleni",
+        "value": 148
+    },
+    {
+        "field": "Protonectarina sylveirae ",
+        "value": 26
+    },
+    {
+        "field": "Ictalurus punctatus",
+        "value": 841
+    },
+    {
+        "field": "Ictalurus punctatus ",
+        "value": 814
+    },
+    {
+        "field": "Drosophila mauritiana",
+        "value": 152
+    },
+    {
+        "field": "Hyphantria cunea",
+        "value": 288
+    },
+    {
+        "field": " Bombyx mori",
+        "value": 37
+    },
+    {
+        "field": " Oncorhynchus mykiss",
+        "value": 13
+    },
+    {
+        "field": "Carcinoscorpius rotundicauda",
+        "value": 17
+    },
+    {
+        "field": "Glossina morsitans morsitans ",
+        "value": 290
+    },
+    {
+        "field": "Drosophila teissieri ",
+        "value": 79
+    },
+    {
+        "field": "Drosophila takahashii ",
+        "value": 39
+    },
+    {
+        "field": "Drosophila orena ",
+        "value": 87
+    },
+    {
+        "field": "Drosophila erecta ",
+        "value": 102
+    },
+    {
+        "field": "Drosophila sechellia ",
+        "value": 139
+    },
+    {
+        "field": "Drosophila yakuba ",
+        "value": 89
+    },
+    {
+        "field": "Drosophila virilis ",
+        "value": 78
+    },
+    {
+        "field": " Bubalus bubalis",
+        "value": 40
+    },
+    {
+        "field": "Anas platyrhynchos ",
+        "value": 1145
+    },
+    {
+        "field": "Hippocampus kuda",
+        "value": 67
+    },
+    {
+        "field": "Capra hircus",
+        "value": 498
+    },
+    {
+        "field": "Bubalus bubalis",
+        "value": 621
+    },
+    {
+        "field": "Pan troglodytes",
+        "value": 3305
+    },
+    {
+        "field": "Dicentrarchus labrax",
+        "value": 22
+    },
+    {
+        "field": "Ruminococcus hansenii ",
+        "value": 24
+    },
+    {
+        "field": "Rana chiricahuensis",
+        "value": 198
+    },
+    {
+        "field": "Rana amurensis ",
+        "value": 710
+    },
+    {
+        "field": "Lateolabrax japonicus ",
+        "value": 193
+    },
+    {
+        "field": "Equus asinus",
+        "value": 244
+    },
+    {
+        "field": "Gluconacetobacter diazotrophicus PAl 5 ",
+        "value": 259
+    },
+    {
+        "field": "Nocardia farcinica IFM 10152 ",
+        "value": 260
+    },
+    {
+        "field": "Sorangium cellulosum",
+        "value": 253
+    },
+    {
+        "field": "Rhodospirillum rubrum ATCC 11170 ",
+        "value": 266
+    },
+    {
+        "field": "Pyrobaculum calidifontis JCM 11548 ",
+        "value": 226
+    },
+    {
+        "field": "Burkholderia ambifaria AMMD ",
+        "value": 259
+    },
+    {
+        "field": "Sulfolobus acidocaldarius DSM 639 ",
+        "value": 160
+    },
+    {
+        "field": "Paracoccus denitrificans PD1222 ",
+        "value": 259
+    },
+    {
+        "field": " Lactococcus lactis ",
+        "value": 66
+    },
+    {
+        "field": "Burkholderia sp. 383 ",
+        "value": 259
+    },
+    {
+        "field": "Wolinella succinogenes DSM 1740 ",
+        "value": 260
+    },
+    {
+        "field": "Sulfolobus tokodaii str. 7 ",
+        "value": 201
+    },
+    {
+        "field": "Burkholderia xenovorans LB400 ",
+        "value": 259
+    },
+    {
+        "field": "Bordetella parapertussis 12822 ",
+        "value": 259
+    },
+    {
+        "field": "Methanosarcina acetivorans C2A ",
+        "value": 157
+    },
+    {
+        "field": "Pichia stipitis CBS 6054 ",
+        "value": 182
+    },
+    {
+        "field": "Gorilla gorilla",
+        "value": 61
+    },
+    {
+        "field": "Pongo pygmaeus",
+        "value": 1144
+    },
+    {
+        "field": "Streptomyces sp. TP-A0584 ",
+        "value": 107
+    },
+    {
+        "field": "Burkholderia phymatum STM815 ",
+        "value": 259
+    },
+    {
+        "field": "Rhodococcus sp. RHA1 ",
+        "value": 268
+    },
+    {
+        "field": "Papio anubis",
+        "value": 1170
+    },
+    {
+        "field": "Micromonospora echinospora ",
+        "value": 233
+    },
+    {
+        "field": "Pan troglodytes troglodytes ",
+        "value": 36
+    },
+    {
+        "field": "Hypsiboas lundii ",
+        "value": 38
+    },
+    {
+        "field": "Burkholderia vietnamiensis G4 ",
+        "value": 259
+    },
+    {
+        "field": "Anopheles albimanus ",
+        "value": 233
+    },
+    {
+        "field": "Rana huanrenensis ",
+        "value": 20
+    },
+    {
+        "field": "Rangifer tarandus",
+        "value": 35
+    },
+    {
+        "field": "Pseudoplusia includens",
+        "value": 128
+    },
+    {
+        "field": "Methylobacterium sp. 4-46 ",
+        "value": 48
+    },
+    {
+        "field": "Nematostella vectensis",
+        "value": 152
+    },
+    {
+        "field": "Ixodes ricinus ",
+        "value": 219
+    },
+    {
+        "field": "Spodoptera exigua ",
+        "value": 481
+    },
+    {
+        "field": "Armadillidium vulgare",
+        "value": 73
+    },
+    {
+        "field": "Legionella pneumophila subsp. pneumophila str. Philadelphia 1 ",
+        "value": 104
+    },
+    {
+        "field": "Hyblaea puera ",
+        "value": 54
+    },
+    {
+        "field": "Staphylococcus aureus subsp. aureus COL ",
+        "value": 88
+    },
+    {
+        "field": "Leonurus japonicus (Leonurus heterophyllus Sweet)",
+        "value": 95
+    },
+    {
+        "field": "Staphylococcus aureus subsp. aureus USA300_FPR3757 ",
+        "value": 44
+    },
+    {
+        "field": "Triatoma infestans ",
+        "value": 33
+    },
+    {
+        "field": "Aplysia californica",
+        "value": 593
+    },
+    {
+        "field": "Bos indicus x Bos taurus (hybrid cattle)",
+        "value": 255
+    },
+    {
+        "field": "Mesobuthus eupeus ",
+        "value": 241
+    },
+    {
+        "field": "Aspergillus giganteus",
+        "value": 102
+    },
+    {
+        "field": "Hevea brasiliensis",
+        "value": 45
+    },
+    {
+        "field": "Rana livida",
+        "value": 185
+    },
+    {
+        "field": "Vigna radiata",
+        "value": 46
+    },
+    {
+        "field": "Arenicola marina",
+        "value": 21
+    },
+    {
+        "field": "Nicotiana tabacum",
+        "value": 863
+    },
+    {
+        "field": "Ornithodoros moubata",
+        "value": 148
+    },
+    {
+        "field": "Lactobacillus gasseri",
+        "value": 58
+    },
+    {
+        "field": "Lactobacillus plantarum 423",
+        "value": 80
+    },
+    {
+        "field": "Lactobacillus reuteri LA6",
+        "value": 57
+    },
+    {
+        "field": "Escherichia coli MC4100",
+        "value": 137
+    },
+    {
+        "field": "Trichoplusia ni",
+        "value": 628
+    },
+    {
+        "field": "Pachymedusa dacnicolor",
+        "value": 173
+    },
+    {
+        "field": "Agalychnis annae",
+        "value": 263
+    },
+    {
+        "field": "Petromyzon marinus",
+        "value": 19
+    },
+    {
+        "field": "Helianthus annuus",
+        "value": 108
+    },
+    {
+        "field": "Pheretima tschiliensis",
+        "value": 133
+    },
+    {
+        "field": "Riptortus clavatus",
+        "value": 809
+    },
+    {
+        "field": "Achatina fulica",
+        "value": 582
+    },
+    {
+        "field": "Mesembryanthemum crystallinum",
+        "value": 38
+    },
+    {
+        "field": "Streptomyces carzinostaticus",
+        "value": 87
+    },
+    {
+        "field": "Chlorocebus aethiops",
+        "value": 228
+    },
+    {
+        "field": "Cercopithecus preussi",
+        "value": 36
+    },
+    {
+        "field": "Bombus ignitus",
+        "value": 26
+    },
+    {
+        "field": "Mamestra brassicae",
+        "value": 98
+    },
+    {
+        "field": "Rhodnius prolixus",
+        "value": 337
+    },
+    {
+        "field": "Drosophila triauraria",
+        "value": 71
+    },
+    {
+        "field": "Amblyomma hebraeum",
+        "value": 250
+    },
+    {
+        "field": "Cercopithecus erythrogaster",
+        "value": 36
+    },
+    {
+        "field": "Gorilla gorilla gorilla",
+        "value": 1841
+    },
+    {
+        "field": "Nomascus concolor",
+        "value": 98
+    },
+    {
+        "field": "Hylobates lar",
+        "value": 959
+    },
+    {
+        "field": "Leiurus quinquestriatus hebraeus",
+        "value": 75
+    },
+    {
+        "field": "Presbytis cristata",
+        "value": 98
+    },
+    {
+        "field": "Presbytis melalophos",
+        "value": 61
+    },
+    {
+        "field": "Presbytis obscura",
+        "value": 98
+    },
+    {
+        "field": "Saguinus oedipus",
+        "value": 203
+    },
+    {
+        "field": "Triticum monococcum",
+        "value": 49
+    },
+    {
+        "field": "Petunia integrifolia",
+        "value": 47
+    },
+    {
+        "field": "Medicago sativa",
+        "value": 45
+    },
+    {
+        "field": "Medicago truncatula",
+        "value": 1037
+    },
+    {
+        "field": "Euonymus europaeus",
+        "value": 299
+    },
+    {
+        "field": "Bacillus sp. HIL Y-85,54728",
+        "value": 20
+    },
+    {
+        "field": "Pardachirus marmoratus",
+        "value": 66
+    },
+    {
+        "field": "Lactobacillus sakei L45",
+        "value": 37
+    },
+    {
+        "field": "Papio papio",
+        "value": 62
+    },
+    {
+        "field": "Macaca fuscata",
+        "value": 25
+    },
+    {
+        "field": "Callithrix jacchus",
+        "value": 1066
+    },
+    {
+        "field": "Ateles fusciceps",
+        "value": 62
+    },
+    {
+        "field": "Danio rerio ",
+        "value": 336
+    },
+    {
+        "field": "Ricinus communis",
+        "value": 545
+    },
+    {
+        "field": "Streptomyces tendae",
+        "value": 87
+    },
+    {
+        "field": "Nomascus gabriellae",
+        "value": 37
+    },
+    {
+        "field": "Macaca tonkeana",
+        "value": 37
+    },
+    {
+        "field": "Nomascus leucogenys",
+        "value": 835
+    },
+    {
+        "field": "Cebus capucinus",
+        "value": 37
+    },
+    {
+        "field": "Ateles fusciceps robustus",
+        "value": 37
+    },
+    {
+        "field": "Tityus costatus",
+        "value": 319
+    },
+    {
+        "field": "Pinus monticola",
+        "value": 79
+    },
+    {
+        "field": "Rana saharica",
+        "value": 111
+    },
+    {
+        "field": "Pinus halepensis",
+        "value": 15
+    },
+    {
+        "field": "Tityus stigmurus",
+        "value": 15
+    },
+    {
+        "field": "Streptococcus pyogenes serotype M49",
+        "value": 26
+    },
+    {
+        "field": "Rana versabilis",
+        "value": 117
+    },
+    {
+        "field": "Rana fukienensis",
+        "value": 130
+    },
+    {
+        "field": "Odorrana versabilis",
+        "value": 179
+    },
+    {
+        "field": "Rana ridibunda",
+        "value": 604
+    },
+    {
+        "field": "Vespa tropica",
+        "value": 14
+    },
+    {
+        "field": "Vespa analis",
+        "value": 14
+    },
+    {
+        "field": "Vespula vulgaris",
+        "value": 30
+    },
+    {
+        "field": "Rana schmackeri",
+        "value": 252
+    },
+    {
+        "field": "Streptomyces azureus",
+        "value": 17
+    },
+    {
+        "field": "Leptodactylus syphax",
+        "value": 25
+    },
+    {
+        "field": "Drosophila simulans",
+        "value": 19
+    },
+    {
+        "field": "Ornithorhynchus anatinus",
+        "value": 505
+    },
+    {
+        "field": "Bacillus cereus",
+        "value": 14
+    },
+    {
+        "field": "Bacillus badius",
+        "value": 14
+    },
+    {
+        "field": "Bacillus cereus (strain ATCC 14579 / DSM 31)",
+        "value": 14
+    },
+    {
+        "field": "Paenibacillus polymyxa",
+        "value": 65
+    },
+    {
+        "field": "Pongo abelii",
+        "value": 1239
+    },
+    {
+        "field": "Canis familiaris",
+        "value": 363
+    },
+    {
+        "field": "Staphylococcus aureus",
+        "value": 360
+    },
+    {
+        "field": "Crotalus durissus ruruima",
+        "value": 122
+    },
+    {
+        "field": "Megoura viciae",
+        "value": 189
+    },
+    {
+        "field": "Brevibacterium linens",
+        "value": 266
+    },
+    {
+        "field": "Actinidia deliciosa",
+        "value": 201
+    },
+    {
+        "field": "Lysobacter sp. (strain XL1)",
+        "value": 109
+    },
+    {
+        "field": "Bothrops jararacussu",
+        "value": 1141
+    },
+    {
+        "field": "Hirudo medicinalis",
+        "value": 134
+    },
+    {
+        "field": "Philodryas olfersii",
+        "value": 221
+    },
+    {
+        "field": "Thrasops jacksonii",
+        "value": 51
+    },
+    {
+        "field": "Rhabdophis tigrinus tigrinus",
+        "value": 52
+    },
+    {
+        "field": "Liophis poecilogyrus",
+        "value": 52
+    },
+    {
+        "field": "Enhydris polylepis",
+        "value": 94
+    },
+    {
+        "field": "Saimiri boliviensis boliviensis",
+        "value": 1288
+    },
+    {
+        "field": "Lemur catta",
+        "value": 125
+    },
+    {
+        "field": "Colobus guereza",
+        "value": 218
+    },
+    {
+        "field": "Cercopithecus aethiops",
+        "value": 88
+    },
+    {
+        "field": "Aotus nancymaae",
+        "value": 69
+    },
+    {
+        "field": "Heterometrus laoticus",
+        "value": 76
+    },
+    {
+        "field": "Bothrops atrox",
+        "value": 156
+    },
+    {
+        "field": "Cassia didymobotrya",
+        "value": 17
+    },
+    {
+        "field": "Naja nigricollis",
+        "value": 51
+    },
+    {
+        "field": "Castanea sativa",
+        "value": 221
+    },
+    {
+        "field": "Thermotoga maritima",
+        "value": 265
+    },
+    {
+        "field": "Thermotoga sp. (strain RQ2)",
+        "value": 265
+    },
+    {
+        "field": "Thermotoga petrophila (strain RKU-1 / ATCC BAA-488 / DSM 13995)",
+        "value": 265
+    },
+    {
+        "field": "Demansia vestigiata",
+        "value": 499
+    },
+    {
+        "field": "Crotalus atrox",
+        "value": 498
+    },
+    {
+        "field": "Oxyuranus scutellatus scutellatus",
+        "value": 499
+    },
+    {
+        "field": "Pseudechis australis",
+        "value": 499
+    },
+    {
+        "field": "Notechis scutatus scutatus",
+        "value": 499
+    },
+    {
+        "field": "Daboia russelli siamensis",
+        "value": 392
+    },
+    {
+        "field": "Eisenia foetida",
+        "value": 610
+    },
+    {
+        "field": "Bothrops moojeni",
+        "value": 472
+    },
+    {
+        "field": "Agkistrodon halys pallas",
+        "value": 486
+    },
+    {
+        "field": "Agkistrodon halys blomhoffi",
+        "value": 486
+    },
+    {
+        "field": "Agkistrodon rhodostoma",
+        "value": 498
+    },
+    {
+        "field": "Crotalus adamanteus",
+        "value": 498
+    },
+    {
+        "field": "Lactococcus lactis subsp. cremoris (Streptococcus cremoris)",
+        "value": 380
+    },
+    {
+        "field": "Crassostrea virginica",
+        "value": 281
+    },
+    {
+        "field": "Trimeresurus flavoviridis",
+        "value": 20
+    },
+    {
+        "field": "Naja kaouthia",
+        "value": 38
+    },
+    {
+        "field": "Eristocophis macmahoni",
+        "value": 27
+    },
+    {
+        "field": "Bitis gabonica",
+        "value": 60
+    },
+    {
+        "field": "Ostrea edulis",
+        "value": 117
+    },
+    {
+        "field": "Drosophila sechellia",
+        "value": 39
+    },
+    {
+        "field": "Drosophila yakuba",
+        "value": 39
+    },
+    {
+        "field": "Lactococcus lactis subsp. cremoris (strain MG1363)",
+        "value": 380
+    },
+    {
+        "field": "Staphylococcus haemolyticus (strain JCSC1435)",
+        "value": 132
+    },
+    {
+        "field": "Staphylococcus haemolyticus",
+        "value": 132
+    },
+    {
+        "field": "Lysobacter sp.",
+        "value": 13
+    },
+    {
+        "field": "Rhizobium leguminosarum bv. viciae",
+        "value": 8
+    },
+    {
+        "field": "Escherichia coli O6",
+        "value": 60
+    },
+    {
+        "field": "Pneumococcus phage Dp-1",
+        "value": 296
+    },
+    {
+        "field": "Halobacterium mediterranei (Haloferax mediterranei)",
+        "value": 313
+    },
+    {
+        "field": "Tribolium castaneum",
+        "value": 183
+    },
+    {
+        "field": "Opisthacanthus cayaporum",
+        "value": 70
+    },
+    {
+        "field": "Pelteobagrus fulvidraco",
+        "value": 78
+    },
+    {
+        "field": "Ctenopharyngodon idella",
+        "value": 119
+    },
+    {
+        "field": "Nasonia vitripennis",
+        "value": 1014
+    },
+    {
+        "field": "Plutella xylostella",
+        "value": 162
+    },
+    {
+        "field": "Fenneropenaeus indicus",
+        "value": 117
+    },
+    {
+        "field": "Amolops ricketti",
+        "value": 475
+    },
+    {
+        "field": "Penaeus monodon",
+        "value": 409
+    },
+    {
+        "field": "Phyllomedusa tomopterna",
+        "value": 46
+    },
+    {
+        "field": "Formica aquilonia",
+        "value": 40
+    },
+    {
+        "field": "Dreissena polymorpha",
+        "value": 75
+    },
+    {
+        "field": "Agrius convolvuli",
+        "value": 19
+    },
+    {
+        "field": "Strongylocentrotus purpuratus",
+        "value": 270
+    },
+    {
+        "field": "Harmonia axyridis",
+        "value": 276
+    },
+    {
+        "field": "Triatoma brasiliensis",
+        "value": 66
+    },
+    {
+        "field": "Portunus trituberculatus",
+        "value": 724
+    },
+    {
+        "field": "Rana andersonii",
+        "value": 325
+    },
+    {
+        "field": "Rana nigrovittata",
+        "value": 801
+    },
+    {
+        "field": "Rana latouchii",
+        "value": 33
+    },
+    {
+        "field": "Paralichthys olivaceus",
+        "value": 169
+    },
+    {
+        "field": "Aspergillus clavatus  ",
+        "value": 49
+    },
+    {
+        "field": "Bacillus amyloliquefaciens Y2  ",
+        "value": 41
+    },
+    {
+        "field": "Euperipatoides rowelli  ",
+        "value": 556
+    },
+    {
+        "field": "Opisthacanthus cayaporum  ",
+        "value": 135
+    },
+    {
+        "field": "Lippia sidoides  ",
+        "value": 35
+    },
+    {
+        "field": "Rhacophorus feae",
+        "value": 44
+    },
+    {
+        "field": "Amolops chunganensis",
+        "value": 575
+    },
+    {
+        "field": "Amolops torrentis  ",
+        "value": 304
+    },
+    {
+        "field": "Hylarana spinulosa",
+        "value": 328
+    },
+    {
+        "field": "Hylarana taipehensis",
+        "value": 100
+    },
+    {
+        "field": "Amolops hainanensis",
+        "value": 304
+    },
+    {
+        "field": "Odorrana hainanensis  ",
+        "value": 220
+    },
+    {
+        "field": "Amolops lifanensis",
+        "value": 199
+    },
+    {
+        "field": "Odorrana margaretae",
+        "value": 240
+    },
+    {
+        "field": "Amolops mantzorum  ",
+        "value": 212
+    },
+    {
+        "field": "Amolops granulosus",
+        "value": 272
+    },
+    {
+        "field": "Mesobuthus eupeus",
+        "value": 186
+    },
+    {
+        "field": "Channa argus (snakehead)  ",
+        "value": 41
+    },
+    {
+        "field": "Otolemur garnettii",
+        "value": 159
+    },
+    {
+        "field": "Sarcophilus harrisii",
+        "value": 683
+    },
+    {
+        "field": "Felis catus",
+        "value": 289
+    },
+    {
+        "field": "Cricetulus griseus",
+        "value": 1114
+    },
+    {
+        "field": "Heterocephalus glaber",
+        "value": 141
+    },
+    {
+        "field": "Oreochromis niloticus",
+        "value": 201
+    },
+    {
+        "field": "Loxodonta africana (African savanna elephant)  ",
+        "value": 76
+    },
+    {
+        "field": "Ailuropoda melanoleuca",
+        "value": 990
+    },
+    {
+        "field": "Epinephelus fuscoguttatus",
+        "value": 83
+    },
+    {
+        "field": "Epinephelus malabaricus",
+        "value": 111
+    },
+    {
+        "field": "Fenneropenaeus indicus  ",
+        "value": 102
+    },
+    {
+        "field": "Panulirus argus",
+        "value": 65
+    },
+    {
+        "field": "Panulirus argus ",
+        "value": 311
+    },
+    {
+        "field": "Chaerilus tricostatus ",
+        "value": 171
+    },
+    {
+        "field": "Babina daunchina",
+        "value": 108
+    },
+    {
+        "field": "Babina adenopleura",
+        "value": 20
+    },
+    {
+        "field": "Pan paniscus",
+        "value": 2226
+    },
+    {
+        "field": "Glossina morsitans morsitans  ",
+        "value": 207
+    },
+    {
+        "field": "Mustela putorius furo",
+        "value": 59
+    },
+    {
+        "field": "Danaus plexippus",
+        "value": 78
+    },
+    {
+        "field": "Epinephelus malabaricus ",
+        "value": 176
+    },
+    {
+        "field": "Epinephelus bleekeri",
+        "value": 97
+    },
+    {
+        "field": "Coturnix japonica",
+        "value": 62
+    },
+    {
+        "field": "Heterometrus petersii  ",
+        "value": 82
+    },
+    {
+        "field": "Scolopendra mutilans  ",
+        "value": 44
+    },
+    {
+        "field": "Ixodes scapularis",
+        "value": 178
+    },
+    {
+        "field": "Androctonus amoreuxi  ",
+        "value": 34
+    },
+    {
+        "field": "Metaphire guillelmi  ",
+        "value": 58
+    },
+    {
+        "field": "Lychas mucronatus",
+        "value": 145
+    },
+    {
+        "field": "Leymus arenarius  ",
+        "value": 42
+    },
+    {
+        "field": "Argas monolakensis  ",
+        "value": 93
+    },
+    {
+        "field": "Cenchritis muricatus  ",
+        "value": 25
+    },
+    {
+        "field": "Cycas revoluta  ",
+        "value": 8
+    },
+    {
+        "field": "Trapa natans  ",
+        "value": 10
+    },
+    {
+        "field": "Odorrana andersonii (golden crossband frog)  ",
+        "value": 1924
+    },
+    {
+        "field": "Odorrana andersonii",
+        "value": 1153
+    },
+    {
+        "field": "Anourosorex squamipes",
+        "value": 59
+    },
+    {
+        "field": "Suberites domuncula  ",
+        "value": 63
+    },
+    {
+        "field": "Heliophila coronopifolia  ",
+        "value": 198
+    },
+    {
+        "field": "Streptomyces actuosus  ",
+        "value": 11
+    },
+    {
+        "field": "Rana dybowskii ",
+        "value": 61
+    },
+    {
+        "field": "Isometrus maculatus  ",
+        "value": 71
+    },
+    {
+        "field": "Staphylococcus hominis  ",
+        "value": 26
+    },
+    {
+        "field": "Bacillus licheniformis DSM 13 = ATCC 14580  ",
+        "value": 31
+    },
+    {
+        "field": "Scylla serrata",
+        "value": 102
+    },
+    {
+        "field": "Amolops sp. jingdongensis",
+        "value": 46
+    },
+    {
+        "field": "Phyllomedusa palliata",
+        "value": 18
+    },
+    {
+        "field": "Bothropoides matogrossensis  ",
+        "value": 30
+    },
+    {
+        "field": "Hydra vulgaris  ",
+        "value": 59
+    },
+    {
+        "field": "Bacillus pumilus  ",
+        "value": 13
+    },
+    {
+        "field": "Oxyopes takobius  ",
+        "value": 29
+    },
+    {
+        "field": "Passiflora alata  ",
+        "value": 30
+    },
+    {
+        "field": "Arachis hypogaea",
+        "value": 14
+    },
+    {
+        "field": "Musca domestica",
+        "value": 94
+    },
+    {
+        "field": "Leptodactylus knudseni",
+        "value": 24
+    },
+    {
+        "field": "Pelophylax saharicus",
+        "value": 176
+    },
+    {
+        "field": "Scylla tranquebarica",
+        "value": 111
+    },
+    {
+        "field": "Rana amurensis  ",
+        "value": 32
+    },
+    {
+        "field": "Pelophylax nigromaculatus",
+        "value": 476
+    },
+    {
+        "field": "Puntius sarana",
+        "value": 29
+    },
+    {
+        "field": "Spodoptera exigua",
+        "value": 394
+    },
+    {
+        "field": "Lates calcarifer",
+        "value": 98
+    },
+    {
+        "field": "Alytes maurus  ",
+        "value": 13
+    },
+    {
+        "field": "Solenopsis invicta",
+        "value": 88
+    },
+    {
+        "field": "Apis florea",
+        "value": 258
+    },
+    {
+        "field": "Bombus impatiens",
+        "value": 153
+    },
+    {
+        "field": "Bombus terrestris",
+        "value": 38
+    },
+    {
+        "field": "Epinephelus moara",
+        "value": 268
+    },
+    {
+        "field": "Lucilia sericata",
+        "value": 32
+    },
+    {
+        "field": "Malus x domestica  ",
+        "value": 78
+    },
+    {
+        "field": "Scophthalmus maximus",
+        "value": 126
+    },
+    {
+        "field": "Misgurnus mizolepis  ",
+        "value": 42
+    },
+    {
+        "field": "Odorrana ishikawae ",
+        "value": 788
+    },
+    {
+        "field": "Macrobrachium rosenbergii",
+        "value": 223
+    },
+    {
+        "field": "Vitis cinerea var. helleri x Vitis riparia  ",
+        "value": 91
+    },
+    {
+        "field": "Streptococcus infantis SK970  ",
+        "value": 61
+    },
+    {
+        "field": "Pocillopora damicornis  ",
+        "value": 39
+    },
+    {
+        "field": "Bos taurus",
+        "value": 2879
+    },
+    {
+        "field": "Calliphora vicina",
+        "value": 12
+    },
+    {
+        "field": "Staphylococcus hominis MBBL 2-9",
+        "value": 21
+    },
+    {
+        "field": "Bombina maxima ",
+        "value": 11398
+    },
+    {
+        "field": "Megabombus pennsylvanicus ",
+        "value": 85
+    },
+    {
+        "field": "Nicotiana megalosiphon",
+        "value": 45
+    },
+    {
+        "field": "Rana pipiens ",
+        "value": 568
+    },
+    {
+        "field": "Drosophila virilis",
+        "value": 84
+    },
+    {
+        "field": "Anas platyrhynchos",
+        "value": 419
+    },
+    {
+        "field": "Vespa basalis",
+        "value": 14
+    },
+    {
+        "field": "Vespula lewisii",
+        "value": 14
+    },
+    {
+        "field": "Apis mellifera ",
+        "value": 195
+    },
+    {
+        "field": "Phoradendron tomentosum ",
+        "value": 46
+    },
+    {
+        "field": "Kassina senegalensis ",
+        "value": 36
+    },
+    {
+        "field": "Vespa mandarinia ",
+        "value": 14
+    },
+    {
+        "field": "Escherichia coli AY25",
+        "value": 21
+    },
+    {
+        "field": "Isometrus maculatus",
+        "value": 73
+    },
+    {
+        "field": "Bacillus brevis",
+        "value": 45
+    },
+    {
+        "field": "Xenopus amieti",
+        "value": 78
+    },
+    {
+        "field": "Pasteurella haemolytica",
+        "value": 6
+    },
+    {
+        "field": "Raja kenojei",
+        "value": 28
+    },
+    {
+        "field": "Phaseolus lunatus L",
+        "value": 20
+    },
+    {
+        "field": "Leptodactylus fallax",
+        "value": 25
+    },
+    {
+        "field": "Tulipa gesneriana L.",
+        "value": 20
+    },
+    {
+        "field": "Acalolepta luxuriosa",
+        "value": 88
+    },
+    {
+        "field": "Leptodactylus pentadactylus",
+        "value": 25
+    },
+    {
+        "field": "Tulipa gesneriana L",
+        "value": 46
+    },
+    {
+        "field": "Dendrocalamus latiflorus Munro",
+        "value": 35
+    },
+    {
+        "field": "Streptomyces strains AA3891",
+        "value": 21
+    },
+    {
+        "field": "Lactococcus lactis IPLA 972",
+        "value": 66
+    },
+    {
+        "field": "Rana septentrionalis",
+        "value": 229
+    },
+    {
+        "field": "Lactobacillus sake Lb674",
+        "value": 43
+    },
+    {
+        "field": "Litoria eucnemis",
+        "value": 64
+    },
+    {
+        "field": "Pardachirus pavoninus",
+        "value": 99
+    },
+    {
+        "field": "Pseudophryne guentheri",
+        "value": 68
+    },
+    {
+        "field": "Planomonospora sp.",
+        "value": 24
+    },
+    {
+        "field": "Mytilus edulis",
+        "value": 72
+    },
+    {
+        "field": "Leiurus quinquestriatus",
+        "value": 37
+    },
+    {
+        "field": "Vigna angularis",
+        "value": 45
+    },
+    {
+        "field": "Triticum turgidum",
+        "value": 47
+    },
+    {
+        "field": "Oldenlandia affinis",
+        "value": 1450
+    },
+    {
+        "field": "Gallus gallus domestic",
+        "value": 38
+    },
+    {
+        "field": "Phyllomedusa sauvagei",
+        "value": 274
+    },
+    {
+        "field": "Oxyopes kitabensis",
+        "value": 37
+    },
+    {
+        "field": "Glyptocephalus cynoglossus L.",
+        "value": 46
+    },
+    {
+        "field": "Enterococcus durans",
+        "value": 133
+    },
+    {
+        "field": "Sparus aurata, Acanthopagrus schlegelii",
+        "value": 20
+    },
+    {
+        "field": "Oreochromis mossambicus",
+        "value": 42
+    },
+    {
+        "field": "Rana ornativentris",
+        "value": 362
+    },
+    {
+        "field": "Bacillus coagulans I-4",
+        "value": 44
+    },
+    {
+        "field": "Listeria innocua 743",
+        "value": 43
+    },
+    {
+        "field": "Enterococcus mundtii NFRI 7397",
+        "value": 43
+    },
+    {
+        "field": "Lactobacillus plantarum C19",
+        "value": 37
+    },
+    {
+        "field": "Rana areolata",
+        "value": 216
+    },
+    {
+        "field": "Rana aurora",
+        "value": 13
+    },
+    {
+        "field": "Rana heckscheri",
+        "value": 14
+    },
+    {
+        "field": "Rana okaloosae",
+        "value": 26
+    },
+    {
+        "field": "Rana pirica",
+        "value": 239
+    },
+    {
+        "field": "Naja atra",
+        "value": 34
+    },
+    {
+        "field": "Euonymus europaeus L.",
+        "value": 45
+    },
+    {
+        "field": "Sorghum bicolor",
+        "value": 116
+    },
+    {
+        "field": "Butyrivibrium fibrisolvens AR10",
+        "value": 58
+    },
+    {
+        "field": "Enterococcus faecalis S-48",
+        "value": 70
+    },
+    {
+        "field": "Lactobacillus plantarum A-1",
+        "value": 43
+    },
+    {
+        "field": "Lactobacillus acidophilus M46",
+        "value": 58
+    },
+    {
+        "field": "Phyllomedusa hypochondrialis, Phyllomedusa nordestina",
+        "value": 25
+    },
+    {
+        "field": "Hylomantis lemur",
+        "value": 32
+    },
+    {
+        "field": "Agalychnis litodryas",
+        "value": 27
+    },
+    {
+        "field": "Hylomantis lemur, Agalychnis callidryas",
+        "value": 18
+    },
+    {
+        "field": "Capsicum chinense",
+        "value": 50
+    },
+    {
+        "field": "Nicotiana excelsior",
+        "value": 47
+    },
+    {
+        "field": "Nicotiana paniculata",
+        "value": 48
+    },
+    {
+        "field": "Serratia plymuthica",
+        "value": 31
+    },
+    {
+        "field": "Streptococcus mutans",
+        "value": 21
+    },
+    {
+        "field": "Viola arvensis",
+        "value": 177
+    },
+    {
+        "field": "Chassalia parvifolia",
+        "value": 90
+    },
+    {
+        "field": "Viola odorata",
+        "value": 443
+    },
+    {
+        "field": "Viola philippica",
+        "value": 338
+    },
+    {
+        "field": "Hybanthus floribundus E",
+        "value": 238
+    },
+    {
+        "field": "Hybanthus floribundus W",
+        "value": 224
+    },
+    {
+        "field": "Hybanthus monopetalus",
+        "value": 119
+    },
+    {
+        "field": "Hybanthus stellarioides",
+        "value": 58
+    },
+    {
+        "field": "Hybanthus vernonii",
+        "value": 27
+    },
+    {
+        "field": "Hybanthus calycinus",
+        "value": 56
+    },
+    {
+        "field": "Hybanthus debilissimus",
+        "value": 51
+    },
+    {
+        "field": "Hybanthus enneaspermus",
+        "value": 87
+    },
+    {
+        "field": "Hybanthus epacroides",
+        "value": 114
+    },
+    {
+        "field": "Oldenlandia affinis DC",
+        "value": 267
+    },
+    {
+        "field": "Viola biflora",
+        "value": 238
+    },
+    {
+        "field": "Viola tricolor",
+        "value": 354
+    },
+    {
+        "field": "Streptomyces strain AA6532",
+        "value": 63
+    },
+    {
+        "field": "Viola cotyledon",
+        "value": 62
+    },
+    {
+        "field": "Lactococcus lactis LMGT2081",
+        "value": 39
+    },
+    {
+        "field": "Tachypleus tridentatus",
+        "value": 102
+    },
+    {
+        "field": "Enterococcus faecalis BFE 1071",
+        "value": 39
+    },
+    {
+        "field": "Lactobacillus plantarum LPCO10",
+        "value": 26
+    },
+    {
+        "field": "Pentadiplandra brazzeana",
+        "value": 54
+    },
+    {
+        "field": "Eucommia ulmoides",
+        "value": 82
+    },
+    {
+        "field": "Archaeoprepona demophoon",
+        "value": 41
+    },
+    {
+        "field": "Streptomyces tendae Tu901",
+        "value": 87
+    },
+    {
+        "field": "Lactobacillus plantarum NC8",
+        "value": 28
+    },
+    {
+        "field": "Lactobacillus johnsonii VPI11088 (Laf+)",
+        "value": 48
+    },
+    {
+        "field": "Brochothrix campestris ATCC 43754",
+        "value": 59
+    },
+    {
+        "field": "Streptococcus thermophilus",
+        "value": 120
+    },
+    {
+        "field": "Lactobacillus salivarius subsp. salivarius UCC118",
+        "value": 45
+    },
+    {
+        "field": "Lactobacillus salivarius DPC6005",
+        "value": 45
+    },
+    {
+        "field": "Streptococcus mutans UA140",
+        "value": 44
+    },
+    {
+        "field": "Lactobacillus casei CRL 705",
+        "value": 33
+    },
+    {
+        "field": "Lactobacillus plantarum C1",
+        "value": 55
+    },
+    {
+        "field": "Lactobacillus acidophilus JCM 1132",
+        "value": 23
+    },
+    {
+        "field": "Enterococcus faecalis MRR 10-3, Enterococcus faecalis 710C",
+        "value": 44
+    },
+    {
+        "field": "Halobacterium strain AS7092",
+        "value": 76
+    },
+    {
+        "field": "Klebsiella pneumoniae RYC492",
+        "value": 84
+    },
+    {
+        "field": "Streptococcus thermophilus LMD-9",
+        "value": 35
+    },
+    {
+        "field": "Bacillus sp. strain HIL Y-85 54728",
+        "value": 20
+    },
+    {
+        "field": "Escherichia coli H47",
+        "value": 60
+    },
+    {
+        "field": "Cycas revoluta",
+        "value": 187
+    },
+    {
+        "field": "Vespa bicolor",
+        "value": 27
+    },
+    {
+        "field": "Rana draytonii",
+        "value": 51
+    },
+    {
+        "field": "Cervus elaphus",
+        "value": 309
+    },
+    {
+        "field": "Bos primigenius",
+        "value": 36
+    },
+    {
+        "field": "Bacillus  subtilis B-TL2",
+        "value": 15
+    },
+    {
+        "field": "Vitis vinifera",
+        "value": 776
+    },
+    {
+        "field": "Alsodes montanus",
+        "value": 119
+    },
+    {
+        "field": "Hylarana latouchii",
+        "value": 174
+    },
+    {
+        "field": "Styela plicata",
+        "value": 8
+    },
+    {
+        "field": "Glossina morsitans",
+        "value": 33
+    },
+    {
+        "field": "Odorrana livida",
+        "value": 168
+    },
+    {
+        "field": "Leptodactylus validus",
+        "value": 75
+    },
+    {
+        "field": "Eisenia foetida ",
+        "value": 5
+    },
+    {
+        "field": "Leptodactylus laticeps",
+        "value": 25
+    },
+    {
+        "field": "Rana muscosa",
+        "value": 60
+    },
+    {
+        "field": "Rana blairi",
+        "value": 506
+    },
+    {
+        "field": "Rana aurora aurora",
+        "value": 80
+    },
+    {
+        "field": "Kassina maculata",
+        "value": 20
+    },
+    {
+        "field": "Bactrocera dorsalis",
+        "value": 20
+    },
+    {
+        "field": "Alytes obstetricans",
+        "value": 142
+    },
+    {
+        "field": "Anaeromyxobacter dehalogenans",
+        "value": 51
+    },
+    {
+        "field": "Lasioglossum laticeps",
+        "value": 72
+    },
+    {
+        "field": "Haemaphysalis longicornis",
+        "value": 133
+    },
+    {
+        "field": "Urechis unicinctus",
+        "value": 20
+    },
+    {
+        "field": "Staphylococcus epidermidis T\u00c3\u00bc 3298",
+        "value": 22
+    },
+    {
+        "field": "Rana capito",
+        "value": 296
+    },
+    {
+        "field": "Scolopendra mutilans",
+        "value": 46
+    },
+    {
+        "field": "Bacillus licheniformis ATCC 14580 or VK 21",
+        "value": 32
+    },
+    {
+        "field": "Litopenaeus stylirostris",
+        "value": 82
+    },
+    {
+        "field": "Argopecten purpuratus",
+        "value": 47
+    },
+    {
+        "field": "Pteromalus puparum",
+        "value": 122
+    },
+    {
+        "field": "Hydra magnipapillata",
+        "value": 91
+    },
+    {
+        "field": "Hylarana erythraea",
+        "value": 19
+    },
+    {
+        "field": "Eriocheir sinensis",
+        "value": 83
+    },
+    {
+        "field": "Aspergillus clavatus ES1",
+        "value": 51
+    },
+    {
+        "field": "Penicillium chrysogenum",
+        "value": 55
+    },
+    {
+        "field": "Aspergillus niger",
+        "value": 57
+    },
+    {
+        "field": "Enterococcus faecium KU-B5",
+        "value": 76
+    },
+    {
+        "field": "Bacillus thuringiensis DPC 6431",
+        "value": 30
+    },
+    {
+        "field": "Strongylocentrotus droebachiensis",
+        "value": 159
+    },
+    {
+        "field": "Scylla paramamosain",
+        "value": 349
+    },
+    {
+        "field": "Nanorana parkeri",
+        "value": 48
+    },
+    {
+        "field": "Scylla Phyllomedusa sauvagei",
+        "value": 19
+    },
+    {
+        "field": "Psacothea hilaris",
+        "value": 34
+    },
+    {
+        "field": "Phyllostachys edulis",
+        "value": 89
+    },
+    {
+        "field": "Canis lupus",
+        "value": 42
+    },
+    {
+        "field": "Streptoverticillium griseoverticillatum PA-48009",
+        "value": 19
+    },
+    {
+        "field": "Streptoverticillium strain R2075",
+        "value": 19
+    },
+    {
+        "field": "Streptomyces griseoluteus R2107",
+        "value": 19
+    },
+    {
+        "field": "Streptomyces ipomoeae",
+        "value": 96
+    },
+    {
+        "field": "Actinoplanes garbadinensis",
+        "value": 83
+    },
+    {
+        "field": "Bacillus subtilis 168",
+        "value": 37
+    },
+    {
+        "field": "Streptococcus bovis HJ50",
+        "value": 33
+    },
+    {
+        "field": "Streptococcus thermophilus SBT1277",
+        "value": 33
+    },
+    {
+        "field": "Staphylococcus aureus C55",
+        "value": 30
+    },
+    {
+        "field": "Staphylococcus gallinarum (F16/P57) Tu3928, Staphylococcus cohnii T",
+        "value": 22
+    },
+    {
+        "field": "Staphylococcus epidermidis 15X154",
+        "value": 30
+    },
+    {
+        "field": "Ciona intestinalis",
+        "value": 24
+    },
+    {
+        "field": "Staphylococcus epidermidis K7",
+        "value": 31
+    },
+    {
+        "field": "Microbispora corallina",
+        "value": 24
+    },
+    {
+        "field": "Oncopeltus fasciatus",
+        "value": 20
+    },
+    {
+        "field": "Bacillus halodurans C-125",
+        "value": 28
+    },
+    {
+        "field": "Xenopus borealis",
+        "value": 28
+    },
+    {
+        "field": "Streptomyces sp. OH-4156",
+        "value": 22
+    },
+    {
+        "field": "Polistes dorsalis",
+        "value": 59
+    },
+    {
+        "field": "Venerupis philippinarum",
+        "value": 74
+    },
+    {
+        "field": "Phasianus colchicus",
+        "value": 26
+    },
+    {
+        "field": "Bacillus amyloliquefaciens FZB42",
+        "value": 14
+    },
+    {
+        "field": "Tachysurus fulvidraco",
+        "value": 20
+    },
+    {
+        "field": "Crotalus durissus terrificus",
+        "value": 42
+    },
+    {
+        "field": "Lactococcus garvieae DCC43",
+        "value": 60
+    },
+    {
+        "field": "Lactococcus sp. strain QU 12",
+        "value": 61
+    },
+    {
+        "field": "Crinia signifera ",
+        "value": 30
+    },
+    {
+        "field": "Rana shuchinae",
+        "value": 93
+    },
+    {
+        "field": "Callinectes sapidus",
+        "value": 32
+    },
+    {
+        "field": "Coffea canephora",
+        "value": 58
+    },
+    {
+        "field": "Orancistrocerus drewseni ",
+        "value": 54
+    },
+    {
+        "field": "Xenopus clivii ",
+        "value": 17
+    },
+    {
+        "field": "Acanthopagrus schlegelii",
+        "value": 24
+    },
+    {
+        "field": "Odorrana ishikawae",
+        "value": 380
+    },
+    {
+        "field": "Bacillus subtilis DSM 15029T",
+        "value": 32
+    },
+    {
+        "field": "Gadus morhua",
+        "value": 148
+    },
+    {
+        "field": "Jatropha curcas",
+        "value": 7
+    },
+    {
+        "field": "Bellamya bengalensis",
+        "value": 16
+    },
+    {
+        "field": "Rana pretiosa",
+        "value": 288
+    },
+    {
+        "field": "Burkholderia thailandensis E264",
+        "value": 19
+    },
+    {
+        "field": "Rhodococcus jostii K01-B0171",
+        "value": 38
+    },
+    {
+        "field": "Rhipicephalus haemaphysaloides",
+        "value": 75
+    },
+    {
+        "field": "Limnonectes fujianensis",
+        "value": 32
+    },
+    {
+        "field": "Coturnix coturnix",
+        "value": 61
+    },
+    {
+        "field": "Papilio xuthus",
+        "value": 37
+    },
+    {
+        "field": "Vaejovis mexicanus",
+        "value": 60
+    },
+    {
+        "field": "Ixodes ricinus",
+        "value": 74
+    },
+    {
+        "field": "Plecoglossus altivelis",
+        "value": 61
+    },
+    {
+        "field": "Echinochloa crus-galli",
+        "value": 37
+    },
+    {
+        "field": "Rapana venosa",
+        "value": 75
+    },
+    {
+        "field": "Leuconostoc mesenteroides TK41401",
+        "value": 61
+    },
+    {
+        "field": "Picea sitchensis",
+        "value": 37
+    },
+    {
+        "field": "Rana dalmatina",
+        "value": 17
+    },
+    {
+        "field": "Stellaria media",
+        "value": 100
+    },
+    {
+        "field": "Amolops jingdongensis",
+        "value": 82
+    },
+    {
+        "field": "Viola abyssinica",
+        "value": 59
+    },
+    {
+        "field": "Sparus aurata",
+        "value": 42
+    },
+    {
+        "field": "Macropus eugenii",
+        "value": 72
+    },
+    {
+        "field": "Trapa natans",
+        "value": 11
+    },
+    {
+        "field": "Oxyopes takobius",
+        "value": 30
+    },
+    {
+        "field": "Heliophila coronopifolia",
+        "value": 202
+    },
+    {
+        "field": "Odorrana rotodora",
+        "value": 895
+    },
+    {
+        "field": "Odorrana wuchuanensis",
+        "value": 212
+    },
+    {
+        "field": "Odorrana hejiangensis",
+        "value": 40
+    },
+    {
+        "field": "Xenopus petersii",
+        "value": 108
+    },
+    {
+        "field": "Xenopus pygmaeus",
+        "value": 17
+    },
+    {
+        "field": "Xenopus lenduensis",
+        "value": 34
+    },
+    {
+        "field": "Limnonectes kuhlii",
+        "value": 170
+    },
+    {
+        "field": "Hedyotis biflora",
+        "value": 123
+    },
+    {
+        "field": "Halictus sexcinctus",
+        "value": 24
+    },
+    {
+        "field": "Lactococcus garvieae BCC 43578",
+        "value": 50
+    },
+    {
+        "field": "Macropis fulvipes",
+        "value": 30
+    },
+    {
+        "field": "Odorrana hainanensis",
+        "value": 52
+    },
+    {
+        "field": "Brevibacillus sp. strain GI-9",
+        "value": 49
+    },
+    {
+        "field": "Hymenochirus boettgeri",
+        "value": 142
+    },
+    {
+        "field": "Geobacillus thermodenitrificans NG80-2",
+        "value": 60
+    },
+    {
+        "field": "Haplopelma hainanum",
+        "value": 52
+    },
+    {
+        "field": "Copris tripartitus",
+        "value": 187
+    },
+    {
+        "field": "Opisthacanthus madagascariensis",
+        "value": 13
+    },
+    {
+        "field": "Chassalia chartacea",
+        "value": 765
+    },
+    {
+        "field": "Lactobacillus salivarius BGHO1",
+        "value": 112
+    },
+    {
+        "field": "Silurana epitropicalis",
+        "value": 126
+    },
+    {
+        "field": "Hybrid between female Litoria splendida and male Litoria caerulea",
+        "value": 75
+    },
+    {
+        "field": "Thunnus albacares",
+        "value": 32
+    },
+    {
+        "field": "Alytes maurus",
+        "value": 32
+    },
+    {
+        "field": "Escherichia coli G3/10",
+        "value": 103
+    },
+    {
+        "field": "Escherichia coli 25",
+        "value": 102
+    },
+    {
+        "field": "Saccharum officinarum",
+        "value": 171
+    },
+    {
+        "field": "Lactobacillus casei ATCC 334",
+        "value": 46
+    },
+    {
+        "field": "Plutella xylostella L",
+        "value": 39
+    },
+    {
+        "field": "Oryza sativa",
+        "value": 92
+    },
+    {
+        "field": "Macadamia integrifolia",
+        "value": 104
+    },
+    {
+        "field": "Branchiostoma japonicum",
+        "value": 82
+    },
+    {
+        "field": "Echinochloa crusgalli L",
+        "value": 30
+    },
+    {
+        "field": "Pseudomonas sp. strain DF41",
+        "value": 22
+    },
+    {
+        "field": "Asticcacaulis excentricus CB 48",
+        "value": 23
+    },
+    {
+        "field": "Datura stramonium",
+        "value": 31
+    },
+    {
+        "field": "Enterococcus faecium RJ16",
+        "value": 70
+    },
+    {
+        "field": "Heterometrus spinifer",
+        "value": 116
+    },
+    {
+        "field": "Staphylococcus warneri RK",
+        "value": 47
+    },
+    {
+        "field": "Lithobates chiricahuensis",
+        "value": 136
+    },
+    {
+        "field": "Paenibacillus polymyxa NRRL B-30509",
+        "value": 36
+    },
+    {
+        "field": "Aspergillus amstelodami",
+        "value": 42
+    },
+    {
+        "field": "Microsporum canis",
+        "value": 38
+    },
+    {
+        "field": "Ceratophrys calcarata",
+        "value": 63
+    },
+    {
+        "field": "Scytonema varium",
+        "value": 95
+    },
+    {
+        "field": "Nostoc ellipsosporum",
+        "value": 101
+    },
+    {
+        "field": "Microcystis viridis",
+        "value": 114
+    },
+    {
+        "field": "Griffithsia",
+        "value": 121
+    },
+    {
+        "field": "Lithobates catesbeiana",
+        "value": 44
+    },
+    {
+        "field": "Lactobacillus plantarum NRIC 149",
+        "value": 22
+    },
+    {
+        "field": "Chionodraco hamatus",
+        "value": 22
+    },
+    {
+        "field": "Tetramorium bicarinatum",
+        "value": 20
+    },
+    {
+        "field": "Actinoplanes sp.",
+        "value": 21
+    },
+    {
+        "field": "Staphylococcus aureus CH-91",
+        "value": 22
+    },
+    {
+        "field": "Mytilus coruscus",
+        "value": 208
+    },
+    {
+        "field": "Tachyglossus aculeatus",
+        "value": 71
+    },
+    {
+        "field": "Centruroides suffusus suffusus",
+        "value": 25
+    },
+    {
+        "field": "Panicum laxum",
+        "value": 28
+    },
+    {
+        "field": "Brachymystax lenok",
+        "value": 53
+    },
+    {
+        "field": "Panurgus calcaratus",
+        "value": 62
+    },
+    {
+        "field": "Bacillus subtilis ATCC 6633",
+        "value": 9
+    },
+    {
+        "field": "Nanorana yunnanensis",
+        "value": 29
+    },
+    {
+        "field": "Euphlyctis cyanophlyctis",
+        "value": 47
+    },
+    {
+        "field": "Paederus dermatitis",
+        "value": 34
+    },
+    {
+        "field": "Heterometrus petersii",
+        "value": 13
+    },
+    {
+        "field": "Bacillus subtilis",
+        "value": 119
+    },
+    {
+        "field": "Brassica oleracea var. alboglabra ",
+        "value": 17
+    },
+    {
+        "field": "Scylla serrata ",
+        "value": 204
+    },
+    {
+        "field": "Lactococcus sp.",
+        "value": 41
+    },
+    {
+        "field": "Paenibacillus polymyxa ",
+        "value": 69
+    },
+    {
+        "field": "Crotalus durissus terrificus ",
+        "value": 446
+    },
+    {
+        "field": "Bothropoides pauloensis",
+        "value": 605
+    },
+    {
+        "field": "Halocynthia papillosa ",
+        "value": 60
+    },
+    {
+        "field": "Crinia riparia ",
+        "value": 16
+    },
+    {
+        "field": "Streptococcus pyogenes",
+        "value": 22
+    },
+    {
+        "field": "Rana arvalis ",
+        "value": 50
+    },
+    {
+        "field": "Amycolatopsis sp. ",
+        "value": 14
+    },
+    {
+        "field": "Heliothis virescens ",
+        "value": 169
+    },
+    {
+        "field": "Hypsiboas raniceps ",
+        "value": 29
+    },
+    {
+        "field": "Crassostrea virginica ",
+        "value": 278
+    },
+    {
+        "field": "Crinia deserticola ",
+        "value": 19
+    },
+    {
+        "field": "Phyllomedusa tarsius ",
+        "value": 141
+    },
+    {
+        "field": "Eumenes rubronotatus ",
+        "value": 15
+    },
+    {
+        "field": "Litopenaeus vannamei ",
+        "value": 727
+    },
+    {
+        "field": "Carnobacterium sp. ",
+        "value": 7
+    },
+    {
+        "field": "Lactobacillus paracasei",
+        "value": 31
+    },
+    {
+        "field": "Lactococcus lactis subsp. cremoris ",
+        "value": 101
+    },
+    {
+        "field": "Leptodactylus pentadactylus ",
+        "value": 22
+    },
+    {
+        "field": "Lucilia sericata ",
+        "value": 40
+    },
+    {
+        "field": "Paralichthys olivaceus ",
+        "value": 906
+    },
+    {
+        "field": "Amyda cartilaginea ",
+        "value": 130
+    },
+    {
+        "field": "Coturnix coturnix japonica ",
+        "value": 129
+    },
+    {
+        "field": "Oryctolagus cuniculus ",
+        "value": 1016
+    },
+    {
+        "field": "Pelodiscus sinensis ",
+        "value": 131
+    },
+    {
+        "field": "Asterias rubens ",
+        "value": 25
+    },
+    {
+        "field": "Bombyx mori ",
+        "value": 1427
+    },
+    {
+        "field": "Streptococcus phage Cp-1 ",
+        "value": 339
+    },
+    {
+        "field": "Lactococcus phage mv1 ",
+        "value": 202
+    },
+    {
+        "field": "Klebsiella pneumoniae",
+        "value": 84
+    },
+    {
+        "field": "Grammostola rosea ",
+        "value": 34
+    },
+    {
+        "field": "Macrovipera lebetina ",
+        "value": 107
+    },
+    {
+        "field": "Tityus discrepans ",
+        "value": 176
+    },
+    {
+        "field": "Opisthacanthus cayaporum ",
+        "value": 15
+    },
+    {
+        "field": "Bacillus licheniformis strain DSM 13 / ATCC 14580",
+        "value": 32
+    },
+    {
+        "field": "Nigella sativa ",
+        "value": 25
+    },
+    {
+        "field": "Lactobacillus rhamnosus",
+        "value": 13
+    },
+    {
+        "field": "Anopheles gambiae ",
+        "value": 45
+    },
+    {
+        "field": "Hydra vulgaris ",
+        "value": 226
+    },
+    {
+        "field": "Rhacophorus schlegelii ",
+        "value": 125
+    },
+    {
+        "field": "Venerupis philippinarum ",
+        "value": 141
+    },
+    {
+        "field": "Papio anubis ",
+        "value": 1944
+    },
+    {
+        "field": "Solanum tuberosum ",
+        "value": 10168
+    },
+    {
+        "field": "Emys orbicularis ",
+        "value": 40
+    },
+    {
+        "field": "Papio hamadryas ",
+        "value": 48
+    },
+    {
+        "field": "Argopecten irradians ",
+        "value": 84
+    },
+    {
+        "field": "Triticum aestivum ",
+        "value": 2070
+    },
+    {
+        "field": "Hypsiboas albopunctatus ",
+        "value": 18
+    },
+    {
+        "field": "Schistosoma mansoni ",
+        "value": 27
+    },
+    {
+        "field": "Osmia rufa ",
+        "value": 17
+    },
+    {
+        "field": "Streptoverticillium griseoverticillatum",
+        "value": 19
+    },
+    {
+        "field": "Malva parviflora ",
+        "value": 105
+    },
+    {
+        "field": "Passiflora edulis ",
+        "value": 25
+    },
+    {
+        "field": "Diospyros texana ",
+        "value": 30
+    },
+    {
+        "field": "Engelmannia peristenia",
+        "value": 18
+    },
+    {
+        "field": "Penicillium chrysogenum ",
+        "value": 58
+    },
+    {
+        "field": "Astragalus mongholicus ",
+        "value": 15
+    },
+    {
+        "field": "Avena sativa ",
+        "value": 1117
+    },
+    {
+        "field": "Streptomyces violaceus ",
+        "value": 15
+    },
+    {
+        "field": "Chaetomium globosum strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970",
+        "value": 222
+    },
+    {
+        "field": "Curcuma longa ",
+        "value": 85
+    },
+    {
+        "field": "Brassica napus ",
+        "value": 178
+    },
+    {
+        "field": "Pinus sylvestris ",
+        "value": 284
+    },
+    {
+        "field": "Lens culinaris subsp. culinaris ",
+        "value": 47
+    },
+    {
+        "field": "Ginkgo biloba ",
+        "value": 108
+    },
+    {
+        "field": "Cucumis melo ",
+        "value": 36
+    },
+    {
+        "field": "Spatholobus parviflorus ",
+        "value": 490
+    },
+    {
+        "field": "Helianthus annuus ",
+        "value": 90
+    },
+    {
+        "field": "Raphanus sativus ",
+        "value": 43
+    },
+    {
+        "field": "Taraxacum officinale ",
+        "value": 168
+    },
+    {
+        "field": "Amaryllis belladonna ",
+        "value": 15
+    },
+    {
+        "field": "Moringa oleifera ",
+        "value": 22
+    },
+    {
+        "field": "Echinochloa crus-galli ",
+        "value": 125
+    },
+    {
+        "field": "Dendrobium findlayanum ",
+        "value": 143
+    },
+    {
+        "field": "Glycine max ",
+        "value": 10850
+    },
+    {
+        "field": "Epinephelus coioides ",
+        "value": 686
+    },
+    {
+        "field": "Macaca mulatta ",
+        "value": 3581
+    },
+    {
+        "field": "Galleria mellonella ",
+        "value": 105
+    },
+    {
+        "field": "Odorrana grahami ",
+        "value": 7956
+    },
+    {
+        "field": "Odorrana versabilis ",
+        "value": 83
+    },
+    {
+        "field": "Rana fukienensis ",
+        "value": 304
+    },
+    {
+        "field": "Rana nigrovittata ",
+        "value": 3101
+    },
+    {
+        "field": "Litoria citropa ",
+        "value": 18
+    },
+    {
+        "field": "Rana pleuraden ",
+        "value": 179
+    },
+    {
+        "field": "Cucurbita maxima ",
+        "value": 15
+    },
+    {
+        "field": "Siganus canaliculatus ",
+        "value": 500
+    },
+    {
+        "field": "Chionodraco hamatus ",
+        "value": 57
+    },
+    {
+        "field": "Scorpiops tibetanus ",
+        "value": 28
+    },
+    {
+        "field": "Vaejovis mexicanus smithi ",
+        "value": 26
+    },
+    {
+        "field": "Urodacus yaschenkoi",
+        "value": 325
+    },
+    {
+        "field": "Amolops jingdongensis ",
+        "value": 1520
+    },
+    {
+        "field": "Xenopus laevis ",
+        "value": 59
+    },
+    {
+        "field": "Rana zhenhaiensis",
+        "value": 642
+    },
+    {
+        "field": "Ceratotherium simum simum ",
+        "value": 222
+    },
+    {
+        "field": "Odobenus rosmarus divergens ",
+        "value": 144
+    },
+    {
+        "field": "Trichechus manatus latirostris ",
+        "value": 144
+    },
+    {
+        "field": "Tursiops truncatus ",
+        "value": 77
+    },
+    {
+        "field": "Orcinus orca ",
+        "value": 77
+    },
+    {
+        "field": "Felis catus ",
+        "value": 348
+    },
+    {
+        "field": "Columba livia ",
+        "value": 479
+    },
+    {
+        "field": "Tupaia chinensis ",
+        "value": 225
+    },
+    {
+        "field": "Bubalus bubalis ",
+        "value": 8639
+    },
+    {
+        "field": "Oryzias latipes ",
+        "value": 454
+    },
+    {
+        "field": "Cyprinus carpio ",
+        "value": 54
+    },
+    {
+        "field": "Gorilla gorilla gorilla ",
+        "value": 2602
+    },
+    {
+        "field": "Ovis aries ",
+        "value": 4675
+    },
+    {
+        "field": "Callorhynchus milii ",
+        "value": 160
+    },
+    {
+        "field": "Bos grunniens mutus",
+        "value": 271
+    },
+    {
+        "field": "Sphaenorhynchus lacteus ",
+        "value": 71
+    },
+    {
+        "field": "Penaeus monodon ",
+        "value": 862
+    },
+    {
+        "field": "Myotis davidii",
+        "value": 257
+    },
+    {
+        "field": "Pteropus alecto ",
+        "value": 1329
+    },
+    {
+        "field": "Takifugu rubripes ",
+        "value": 363
+    },
+    {
+        "field": "Saimiri boliviensis boliviensis ",
+        "value": 172
+    },
+    {
+        "field": "Xenorhabdus budapestensis",
+        "value": 39
+    },
+    {
+        "field": "Buthotus judaicus ",
+        "value": 10
+    },
+    {
+        "field": "Pandinus cavimanus ",
+        "value": 13
+    },
+    {
+        "field": "Buthus occitanus israelis ",
+        "value": 10
+    },
+    {
+        "field": "Hermetia illucens ",
+        "value": 69
+    },
+    {
+        "field": "Brevibacillus laterosporus ",
+        "value": 11
+    },
+    {
+        "field": "Odorrana jingdongensis ",
+        "value": 221
+    },
+    {
+        "field": "Paenibacillus alvei ",
+        "value": 24
+    },
+    {
+        "field": "Avicularia juruensis ",
+        "value": 38
+    },
+    {
+        "field": "Acanthoscurria rondoniae ",
+        "value": 10
+    },
+    {
+        "field": "Lucilia cuprina ",
+        "value": 40
+    },
+    {
+        "field": "Phoneutria nigriventer ",
+        "value": 8
+    },
+    {
+        "field": "Dromaius novaehollandiae ",
+        "value": 832
+    },
+    {
+        "field": "Rana kukunoris ",
+        "value": 941
+    },
+    {
+        "field": "Rana draytonii ",
+        "value": 327
+    },
+    {
+        "field": "Pseudacris regilla ",
+        "value": 319
+    },
+    {
+        "field": "Rana sierrae ",
+        "value": 217
+    },
+    {
+        "field": "Tupaia belangeri ",
+        "value": 36
+    },
+    {
+        "field": "Achatina fulica ",
+        "value": 103
+    },
+    {
+        "field": "Camponotus floridanus ",
+        "value": 917
+    },
+    {
+        "field": "Zanclus cornutus ",
+        "value": 43
+    },
+    {
+        "field": "Chlorophthalmus bicornis ",
+        "value": 56
+    },
+    {
+        "field": "Lithobates catesbeiana ",
+        "value": 970
+    },
+    {
+        "field": "Rana clamitans ",
+        "value": 62
+    },
+    {
+        "field": "Paenibacillus polymyxa OSY-DF",
+        "value": 238
+    },
+    {
+        "field": "Macrobrachium rosenbergii ",
+        "value": 91
+    },
+    {
+        "field": "Megalobrama amblycephala ",
+        "value": 66
+    },
+    {
+        "field": "Phyllomedusa nordestina ",
+        "value": 155
+    },
+    {
+        "field": "Scylla paramamosain ",
+        "value": 102
+    },
+    {
+        "field": "Fenneropenaeus indicus ",
+        "value": 393
+    },
+    {
+        "field": "Anadara broughtonii ",
+        "value": 79
+    },
+    {
+        "field": "Cyprinus carpio carpio",
+        "value": 52
+    },
+    {
+        "field": "Anguilla japonica ",
+        "value": 260
+    },
+    {
+        "field": "Mytilus galloprovincialis ",
+        "value": 16518
+    },
+    {
+        "field": "Morone chrysops x Morone saxatilis ",
+        "value": 142
+    },
+    {
+        "field": "Crocodylus siamensis ",
+        "value": 386
+    },
+    {
+        "field": "Apis cerana japonica",
+        "value": 621
+    },
+    {
+        "field": "Hyriopsis cumingii",
+        "value": 97
+    },
+    {
+        "field": "Nasonia vitripennis ",
+        "value": 56
+    },
+    {
+        "field": "Mytilus coruscus ",
+        "value": 1377
+    },
+    {
+        "field": "Eriocheir sinensis ",
+        "value": 104
+    },
+    {
+        "field": "Lactobacillus sake Lb 706",
+        "value": 41
+    },
+    {
+        "field": "Lactobacillus sake LTH673",
+        "value": 43
+    },
+    {
+        "field": "Pediococcus acidilactici PAC1.0",
+        "value": 44
+    },
+    {
+        "field": "Staphylococcus aureus strain NCTC 8325",
+        "value": 309
+    },
+    {
+        "field": "Nigella sativa",
+        "value": 100
+    },
+    {
+        "field": "Morus alba",
+        "value": 191
+    },
+    {
+        "field": "Penicillium chrysogenum ATCC 28089 / DSM 1075 / Wisconsin",
+        "value": 58
+    },
+    {
+        "field": "Bombus lapidarius",
+        "value": 57
+    },
+    {
+        "field": "Rana arvalis",
+        "value": 62
+    },
+    {
+        "field": "Apis mellifera carnica",
+        "value": 51
+    },
+    {
+        "field": "Ornithodoros coriaceus",
+        "value": 44
+    },
+    {
+        "field": "Tityus discrepans",
+        "value": 36
+    },
+    {
+        "field": "Phasmahyla jandaia",
+        "value": 524
+    },
+    {
+        "field": "Samia ricini",
+        "value": 149
+    },
+    {
+        "field": "Lonomia obliqua",
+        "value": 421
+    },
+    {
+        "field": "Phyllomedusa burmeisteri",
+        "value": 84
+    },
+    {
+        "field": "Ateles geoffroyi",
+        "value": 245
+    },
+    {
+        "field": "Capra ibex",
+        "value": 245
+    },
+    {
+        "field": "Mus caroli",
+        "value": 245
+    },
+    {
+        "field": "Mus saxicola",
+        "value": 245
+    },
+    {
+        "field": "Staphylococcus epidermidis",
+        "value": 31
+    },
+    {
+        "field": "Aix sponsa",
+        "value": 129
+    },
+    {
+        "field": "Catreus wallichii",
+        "value": 129
+    },
+    {
+        "field": "Chelonia mydas",
+        "value": 130
+    },
+    {
+        "field": "Crax fasciolata",
+        "value": 129
+    },
+    {
+        "field": "Halichoerus grypus",
+        "value": 130
+    },
+    {
+        "field": "Leptonychotes weddelli",
+        "value": 130
+    },
+    {
+        "field": "Lophophorus impejanus",
+        "value": 129
+    },
+    {
+        "field": "Phasianus versicolor",
+        "value": 130
+    },
+    {
+        "field": "Phoca vitulina",
+        "value": 130
+    },
+    {
+        "field": "Psetta maxima",
+        "value": 128
+    },
+    {
+        "field": "Syrmaticus soemmerringii",
+        "value": 129
+    },
+    {
+        "field": "Takifugu rubripes",
+        "value": 574
+    },
+    {
+        "field": "Tragopan satyra",
+        "value": 129
+    },
+    {
+        "field": "Tragopan temminckii",
+        "value": 129
+    },
+    {
+        "field": "Bos indicus",
+        "value": 169
+    },
+    {
+        "field": "Camelus dromedarius",
+        "value": 1699
+    },
+    {
+        "field": "Phyllomedusa tarsius",
+        "value": 142
+    },
+    {
+        "field": "Phyllomedusa azurea",
+        "value": 38
+    },
+    {
+        "field": "Hypsiboas raniceps",
+        "value": 230
+    },
+    {
+        "field": "Bacillus phage SPbeta",
+        "value": 37
+    },
+    {
+        "field": "Aurelia aurita",
+        "value": 40
+    },
+    {
+        "field": "Secale cereale",
+        "value": 545
+    },
+    {
+        "field": "Litoria rothii",
+        "value": 72
+    },
+    {
+        "field": "Centruroides limpidus limpidus",
+        "value": 32
+    },
+    {
+        "field": "Fagopyrum tataricum",
+        "value": 86
+    },
+    {
+        "field": "Xanthosoma sagittifolium",
+        "value": 19
+    },
+    {
+        "field": "Microbispora sp",
+        "value": 24
+    },
+    {
+        "field": "Tachyglossus aculeatus aculeatus",
+        "value": 125
+    },
+    {
+        "field": "Allenopithecus nigroviridis",
+        "value": 130
+    },
+    {
+        "field": "Axis axis",
+        "value": 129
+    },
+    {
+        "field": "Callipepla californica",
+        "value": 129
+    },
+    {
+        "field": "Cercocebus atys",
+        "value": 130
+    },
+    {
+        "field": "Chrysolophus amherstiae",
+        "value": 129
+    },
+    {
+        "field": "Colobus angolensis",
+        "value": 130
+    },
+    {
+        "field": "Columba livia",
+        "value": 1362
+    },
+    {
+        "field": "Colinus virginianus",
+        "value": 129
+    },
+    {
+        "field": "Erythrocebus patas",
+        "value": 130
+    },
+    {
+        "field": "Lophura leucomelana",
+        "value": 129
+    },
+    {
+        "field": "Miopithecus talapoin",
+        "value": 130
+    },
+    {
+        "field": "Nasalis larvatus",
+        "value": 130
+    },
+    {
+        "field": "Numida meleagris",
+        "value": 129
+    },
+    {
+        "field": "Opisthocomus hoazin",
+        "value": 126
+    },
+    {
+        "field": "Ortalis vetula",
+        "value": 129
+    },
+    {
+        "field": "Pavo cristatus",
+        "value": 129
+    },
+    {
+        "field": "Phasianus colchicus colchicus",
+        "value": 130
+    },
+    {
+        "field": "Pseudocheirus peregrinus",
+        "value": 49
+    },
+    {
+        "field": "Pygathrix nemaeus",
+        "value": 130
+    },
+    {
+        "field": "Saimiri sciureus",
+        "value": 130
+    },
+    {
+        "field": "Semnopithecus entellus",
+        "value": 130
+    },
+    {
+        "field": "Syrmaticus reevesii",
+        "value": 129
+    },
+    {
+        "field": "Trachypithecus francoisi",
+        "value": 130
+    },
+    {
+        "field": "Trachypithecus obscurus",
+        "value": 130
+    },
+    {
+        "field": "Trachypithecus vetulus",
+        "value": 130
+    },
+    {
+        "field": "Trichosurus vulpecula",
+        "value": 129
+    },
+    {
+        "field": "Haemophilus phage HP1",
+        "value": 169
+    },
+    {
+        "field": "Eumenes fraterculus",
+        "value": 14
+    },
+    {
+        "field": "Eumenes rubrofemoratus",
+        "value": 14
+    },
+    {
+        "field": "Avena sativa",
+        "value": 708
+    },
+    {
+        "field": "Pseudacanthotermes spiniger",
+        "value": 22
+    },
+    {
+        "field": "Dinoponera australis",
+        "value": 98
+    },
+    {
+        "field": "Anas platyrhynchos (Mallard)  ",
+        "value": 247
+    },
+    {
+        "field": "Theobroma cacao ",
+        "value": 7128
+    },
+    {
+        "field": "Citrus sinensis ",
+        "value": 808
+    },
+    {
+        "field": "Rana guentheri ",
+        "value": 787
+    },
+    {
+        "field": "Enterococcus columbae",
+        "value": 58
+    },
+    {
+        "field": "Plutella xylostella ",
+        "value": 930
+    },
+    {
+        "field": "Thaumatococcus daniellii ",
+        "value": 442
+    },
+    {
+        "field": "Xenopus tropicalis ",
+        "value": 379
+    },
+    {
+        "field": "Brassica juncea ",
+        "value": 355
+    },
+    {
+        "field": "Taxus x media",
+        "value": 2796
+    },
+    {
+        "field": "Oryza sativa subsp. indica ",
+        "value": 629
+    },
+    {
+        "field": "Bos mutus grunniens ",
+        "value": 1552
+    },
+    {
+        "field": "Vitis vinifera ",
+        "value": 3665
+    },
+    {
+        "field": "Geobacillus thermodenitrificans (strain NG80-2)",
+        "value": 56
+    },
+    {
+        "field": "Farfantepenaeus subtilis ",
+        "value": 73
+    },
+    {
+        "field": "Farfantepenaeus brasiliensis ",
+        "value": 71
+    },
+    {
+        "field": "Pinus taeda ",
+        "value": 234
+    },
+    {
+        "field": "Bos indicus x Bos taurus ",
+        "value": 2381
+    },
+    {
+        "field": "Spodoptera litura ",
+        "value": 55
+    },
+    {
+        "field": "Rana palustris ",
+        "value": 771
+    },
+    {
+        "field": "Viola baoshanensis",
+        "value": 2955
+    },
+    {
+        "field": "Perca fluviatilis ",
+        "value": 86
+    },
+    {
+        "field": "Anopheles stephensi ",
+        "value": 40
+    },
+    {
+        "field": "Anopheles bwambae",
+        "value": 58
+    },
+    {
+        "field": "Anopheles quadriannulatus ",
+        "value": 116
+    },
+    {
+        "field": "Anopheles arabiensis ",
+        "value": 233
+    },
+    {
+        "field": "Anopheles melas",
+        "value": 232
+    },
+    {
+        "field": "Anopheles merus ",
+        "value": 232
+    },
+    {
+        "field": "Aleuroglyphus ovatus ",
+        "value": 243
+    },
+    {
+        "field": "Suidasia medanensis",
+        "value": 229
+    },
+    {
+        "field": "Tyrophagus putrescentiae ",
+        "value": 231
+    },
+    {
+        "field": "Lithobates pipiens ",
+        "value": 927
+    },
+    {
+        "field": "Rana sphenocephala ",
+        "value": 122
+    },
+    {
+        "field": "Gorilla gorilla ",
+        "value": 302
+    },
+    {
+        "field": "Pongo pygmaeus ",
+        "value": 362
+    },
+    {
+        "field": "Nomascus concolor ",
+        "value": 72
+    },
+    {
+        "field": "Hylobates lar ",
+        "value": 149
+    },
+    {
+        "field": "Macaca arctoides ",
+        "value": 72
+    },
+    {
+        "field": "Macaca tonkeana ",
+        "value": 72
+    },
+    {
+        "field": "Macaca fuscata ",
+        "value": 72
+    },
+    {
+        "field": "Cercopithecus erythrogaster ",
+        "value": 72
+    },
+    {
+        "field": "Cercopithecus preussi ",
+        "value": 72
+    },
+    {
+        "field": "Trachypithecus obscurus ",
+        "value": 72
+    },
+    {
+        "field": "Trachypithecus cristatus ",
+        "value": 186
+    },
+    {
+        "field": "Chlorocebus aethiops ",
+        "value": 890
+    },
+    {
+        "field": "Callithrix jacchus ",
+        "value": 1688
+    },
+    {
+        "field": "Saguinus oedipus ",
+        "value": 73
+    },
+    {
+        "field": "Ateles fusciceps ",
+        "value": 73
+    },
+    {
+        "field": "Brassica campestris ",
+        "value": 809
+    },
+    {
+        "field": "Arabidopsis thaliana ",
+        "value": 9615
+    },
+    {
+        "field": "Salmo trutta fario",
+        "value": 204
+    },
+    {
+        "field": "Bos indicus ",
+        "value": 3136
+    },
+    {
+        "field": "Coffea arabica ",
+        "value": 890
+    },
+    {
+        "field": "Oncorhynchus tshawytscha ",
+        "value": 164
+    },
+    {
+        "field": "Caenorhabditis briggsae",
+        "value": 704
+    },
+    {
+        "field": "Tachysurus fulvidraco ",
+        "value": 93
+    },
+    {
+        "field": "Melicytus ramiflorus",
+        "value": 2413
+    },
+    {
+        "field": "Populus trichocarpa ",
+        "value": 1102
+    },
+    {
+        "field": "Takifugu obscurus ",
+        "value": 55
+    },
+    {
+        "field": "Piper colubrinum",
+        "value": 230
+    },
+    {
+        "field": "Trichoplusia ni ",
+        "value": 67
+    },
+    {
+        "field": "Nepenthes alata ",
+        "value": 225
+    },
+    {
+        "field": "Fenneropenaeus penicillatus ",
+        "value": 164
+    },
+    {
+        "field": "Medicago truncatula var. truncatula",
+        "value": 224
+    },
+    {
+        "field": "Culex quinquefasciatus ",
+        "value": 939
+    },
+    {
+        "field": "Bombus ignitus ",
+        "value": 326
+    },
+    {
+        "field": "Callicebus moloch ",
+        "value": 76
+    },
+    {
+        "field": "Oryza sativa subsp. japonica ",
+        "value": 3275
+    },
+    {
+        "field": "Macropus eugenii ",
+        "value": 1071
+    },
+    {
+        "field": "Viola biflora ",
+        "value": 119
+    },
+    {
+        "field": "Enterococcus faecalis ",
+        "value": 134
+    },
+    {
+        "field": "Gadus morhua ",
+        "value": 3467
+    },
+    {
+        "field": "Macaca cyclopis ",
+        "value": 710
+    },
+    {
+        "field": "Streptococcus infantarius subsp. infantarius ATCC BAA-102",
+        "value": 72
+    },
+    {
+        "field": "Labeo bata ",
+        "value": 209
+    },
+    {
+        "field": "Catla catla ",
+        "value": 211
+    },
+    {
+        "field": "Systomus sarana ",
+        "value": 209
+    },
+    {
+        "field": "Cirrhinus cirrhosus",
+        "value": 208
+    },
+    {
+        "field": "Bacillus amyloliquefaciens ",
+        "value": 509
+    },
+    {
+        "field": "Antheraea pernyi ",
+        "value": 127
+    },
+    {
+        "field": "Capsicum annuum ",
+        "value": 1107
+    },
+    {
+        "field": "Labeo rohita ",
+        "value": 162
+    },
+    {
+        "field": "Rana chensinensis ",
+        "value": 648
+    },
+    {
+        "field": "Rhinolophus ferrumequinum ",
+        "value": 77
+    },
+    {
+        "field": "Anser cygnoides ",
+        "value": 198
+    },
+    {
+        "field": "Pediococcus sp. CRA51",
+        "value": 35
+    },
+    {
+        "field": "Sparus aurata ",
+        "value": 256
+    },
+    {
+        "field": "Pyrenophora tritici-repentis (strain Pt-1C-BFP)",
+        "value": 375
+    },
+    {
+        "field": "Carnobacterium sp. WFPIS001",
+        "value": 62
+    },
+    {
+        "field": "Weissella paramesenteroides ",
+        "value": 43
+    },
+    {
+        "field": "Petunia hybrida ",
+        "value": 577
+    },
+    {
+        "field": "Pogonophryne scotti ",
+        "value": 179
+    },
+    {
+        "field": "Eleginops maclovinus ",
+        "value": 179
+    },
+    {
+        "field": "Notothenia angustata ",
+        "value": 706
+    },
+    {
+        "field": "Dissostichus mawsoni ",
+        "value": 522
+    },
+    {
+        "field": "Chaenocephalus aceratus ",
+        "value": 88
+    },
+    {
+        "field": "Gymnodraco acuticeps ",
+        "value": 86
+    },
+    {
+        "field": "Rhigophila dearborni ",
+        "value": 268
+    },
+    {
+        "field": "Sorex araneus ",
+        "value": 77
+    },
+    {
+        "field": "Salvelinus alpinus ",
+        "value": 129
+    },
+    {
+        "field": "Epinephelus akaara ",
+        "value": 155
+    },
+    {
+        "field": "Geobacillus sp. G11MC16",
+        "value": 56
+    },
+    {
+        "field": "Odorrana schmackeri ",
+        "value": 907
+    },
+    {
+        "field": "Zea mays",
+        "value": 9176
+    },
+    {
+        "field": "Loxodonta africana ",
+        "value": 1381
+    },
+    {
+        "field": "Monodelphis domestica ",
+        "value": 792
+    },
+    {
+        "field": "Taeniopygia guttata ",
+        "value": 926
+    },
+    {
+        "field": "Aedes aegypti ",
+        "value": 3889
+    },
+    {
+        "field": "Oplegnathus fasciatus ",
+        "value": 589
+    },
+    {
+        "field": "Litoria splendida x Litoria caerulea",
+        "value": 150
+    },
+    {
+        "field": "Solea senegalensis ",
+        "value": 171
+    },
+    {
+        "field": "Drosophila pseudoobscura pseudoobscura ",
+        "value": 252
+    },
+    {
+        "field": "Babina pleuraden ",
+        "value": 1214
+    },
+    {
+        "field": "Rheum australe ",
+        "value": 133
+    },
+    {
+        "field": "Salmo salar ",
+        "value": 792
+    },
+    {
+        "field": "Pyrus pyrifolia ",
+        "value": 1976
+    },
+    {
+        "field": "Viola odorata ",
+        "value": 713
+    },
+    {
+        "field": "Agalychnis callidryas ",
+        "value": 224
+    },
+    {
+        "field": "Sitophilus zeamais ",
+        "value": 241
+    },
+    {
+        "field": "Pagrus auriga ",
+        "value": 366
+    },
+    {
+        "field": "Enterococcus sp. DF14",
+        "value": 35
+    },
+    {
+        "field": "Micropterus salmoides ",
+        "value": 176
+    },
+    {
+        "field": "Micropterus dolomieu ",
+        "value": 176
+    },
+    {
+        "field": "Zea mays subsp. parviglumis ",
+        "value": 4781
+    },
+    {
+        "field": "Litopenaeus schmitti ",
+        "value": 361
+    },
+    {
+        "field": "Triticum monococcum subsp. aegilopoides",
+        "value": 952
+    },
+    {
+        "field": "Triticum monococcum subsp. monococcum",
+        "value": 544
+    },
+    {
+        "field": "Triticum urartu ",
+        "value": 1280
+    },
+    {
+        "field": "Salvelinus fontinalis ",
+        "value": 381
+    },
+    {
+        "field": "Thymallus thymallus ",
+        "value": 187
+    },
+    {
+        "field": "Ricinus communis ",
+        "value": 4683
+    },
+    {
+        "field": "Apis cerana cerana ",
+        "value": 2179
+    },
+    {
+        "field": "Hylarana latouchii ",
+        "value": 827
+    },
+    {
+        "field": "Gossypium hirsutum ",
+        "value": 118
+    },
+    {
+        "field": "Macaca fascicularis ",
+        "value": 2063
+    },
+    {
+        "field": "Nomascus leucogenys ",
+        "value": 2148
+    },
+    {
+        "field": "Tabanus yao ",
+        "value": 63
+    },
+    {
+        "field": "Sebastes schlegelii ",
+        "value": 176
+    },
+    {
+        "field": "Hypophthalmichthys nobilis ",
+        "value": 65
+    },
+    {
+        "field": "Pediococcus pentosaceus",
+        "value": 172
+    },
+    {
+        "field": "Pediococcus acidilactici",
+        "value": 178
+    },
+    {
+        "field": "Bacillus cereus AH1272",
+        "value": 46
+    },
+    {
+        "field": "Bacillus mycoides DSM 2048",
+        "value": 46
+    },
+    {
+        "field": "Dasypus novemcinctus ",
+        "value": 77
+    },
+    {
+        "field": "Bombina microdeladigitora ",
+        "value": 11358
+    },
+    {
+        "field": "Odorrana livida ",
+        "value": 751
+    },
+    {
+        "field": "Limnonectes kuhlii ",
+        "value": 580
+    },
+    {
+        "field": "Dicentrarchus labrax ",
+        "value": 776
+    },
+    {
+        "field": "Bombus terrestris ",
+        "value": 263
+    },
+    {
+        "field": "Branchiostoma belcheri tsingtauense",
+        "value": 1256
+    },
+    {
+        "field": "Myrmica ruginodis ",
+        "value": 52
+    },
+    {
+        "field": "Myrmica lobicornis",
+        "value": 52
+    },
+    {
+        "field": "Myrmica scabrinodis",
+        "value": 52
+    },
+    {
+        "field": "Myrmica sulcinodis",
+        "value": 52
+    },
+    {
+        "field": "Myrmica rubra",
+        "value": 52
+    },
+    {
+        "field": "Myrmica sabuleti",
+        "value": 52
+    },
+    {
+        "field": "Myrmica rugulosa",
+        "value": 52
+    },
+    {
+        "field": "Manica rubida",
+        "value": 52
+    },
+    {
+        "field": "Myrmica brevispinosa",
+        "value": 52
+    },
+    {
+        "field": "Myrmica fracticornis",
+        "value": 52
+    },
+    {
+        "field": "Myrmica alaskensis",
+        "value": 52
+    },
+    {
+        "field": "Apis koschevnikovi ",
+        "value": 108
+    },
+    {
+        "field": "Apis andreniformis",
+        "value": 114
+    },
+    {
+        "field": "Apis dorsata ",
+        "value": 140
+    },
+    {
+        "field": "Apis cerana ",
+        "value": 134
+    },
+    {
+        "field": "Monopterus albus ",
+        "value": 348
+    },
+    {
+        "field": "Chelon labrosus ",
+        "value": 60
+    },
+    {
+        "field": "Panax ginseng ",
+        "value": 251
+    },
+    {
+        "field": "Hordeum vulgare var. distichum ",
+        "value": 270
+    },
+    {
+        "field": "Lepidium latifolium ",
+        "value": 326
+    },
+    {
+        "field": "Pyrus x bretschneideri",
+        "value": 248
+    },
+    {
+        "field": "Coturnix coturnix ",
+        "value": 215
+    },
+    {
+        "field": "Phasianus colchicus ",
+        "value": 61
+    },
+    {
+        "field": "Lactococcus lactis subsp. lactis (strain KF147)",
+        "value": 50
+    },
+    {
+        "field": "Streptococcus thoraltensis",
+        "value": 55
+    },
+    {
+        "field": "Streptococcus agalactiae",
+        "value": 55
+    },
+    {
+        "field": "Streptococcus porcinus",
+        "value": 55
+    },
+    {
+        "field": "Streptococcus pluranimalium",
+        "value": 55
+    },
+    {
+        "field": "Enterococcus avium ",
+        "value": 61
+    },
+    {
+        "field": "Populus nigra ",
+        "value": 154
+    },
+    {
+        "field": "Populus balsamifera ",
+        "value": 154
+    },
+    {
+        "field": "Odorrana andersonii ",
+        "value": 2225
+    },
+    {
+        "field": "Cucumis x hytivus",
+        "value": 177
+    },
+    {
+        "field": "Citrus jambhiri ",
+        "value": 248
+    },
+    {
+        "field": "Gloeospermum blakeanum",
+        "value": 620
+    },
+    {
+        "field": "Gloeospermum pauciflorum",
+        "value": 422
+    },
+    {
+        "field": "Mammuthus primigenius ",
+        "value": 94
+    },
+    {
+        "field": "Pinus monticola ",
+        "value": 1679
+    },
+    {
+        "field": "Vitis cinerea var. helleri x Vitis riparia",
+        "value": 239
+    },
+    {
+        "field": "Rattus norvegicus ",
+        "value": 4019
+    },
+    {
+        "field": "Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2)",
+        "value": 305
+    },
+    {
+        "field": "Bacillus megaterium (strain ATCC 12872 / QMB1551)",
+        "value": 46
+    },
+    {
+        "field": "Siniperca chuatsi ",
+        "value": 86
+    },
+    {
+        "field": "Hylarana temporalis",
+        "value": 441
+    },
+    {
+        "field": "Ephestia kuehniella ",
+        "value": 683
+    },
+    {
+        "field": "Rana tagoi okiensis ",
+        "value": 814
+    },
+    {
+        "field": "Rana sakuraii ",
+        "value": 70
+    },
+    {
+        "field": "Streptomyces clavuligerus (strain ATCC 27064 / DSM 738 / JCM 4710 / NBRC 13307 / NCIMB 12785 / NRRL 3585 / VKM Ac-602)",
+        "value": 125
+    },
+    {
+        "field": "Branchiostoma floridae ",
+        "value": 368
+    },
+    {
+        "field": "Leuconostoc pseudomesenteroides",
+        "value": 61
+    },
+    {
+        "field": "Papilio xuthus ",
+        "value": 124
+    },
+    {
+        "field": "Staphylococcus simulans",
+        "value": 27
+    },
+    {
+        "field": "Picea sitchensis ",
+        "value": 2034
+    },
+    {
+        "field": "Odorrana margaretae ",
+        "value": 166
+    },
+    {
+        "field": "Amolops granulosus ",
+        "value": 63
+    },
+    {
+        "field": "Amolops mantzorum",
+        "value": 139
+    },
+    {
+        "field": "Babina daunchina ",
+        "value": 72
+    },
+    {
+        "field": "Staphylococcus aureus subsp. aureus TCH70",
+        "value": 39
+    },
+    {
+        "field": "Harpegnathos saltator ",
+        "value": 2061
+    },
+    {
+        "field": "Arachis diogoi",
+        "value": 442
+    },
+    {
+        "field": "Cervus nippon ",
+        "value": 64
+    },
+    {
+        "field": "Canis familiaris ",
+        "value": 2472
+    },
+    {
+        "field": "Streptococcus downei F0415",
+        "value": 71
+    },
+    {
+        "field": "Bacillus atrophaeus (strain 1942)",
+        "value": 43
+    },
+    {
+        "field": "Caenorhabditis remanei ",
+        "value": 482
+    },
+    {
+        "field": "Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212)",
+        "value": 415
+    },
+    {
+        "field": "Olea europaea ",
+        "value": 226
+    },
+    {
+        "field": "Helicoverpa armigera ",
+        "value": 379
+    },
+    {
+        "field": "Populus tomentosa ",
+        "value": 569
+    },
+    {
+        "field": "Cucumis melo subsp. melo",
+        "value": 734
+    },
+    {
+        "field": "Odorrana hainanensis ",
+        "value": 33
+    },
+    {
+        "field": "Amolops hainanensis ",
+        "value": 216
+    },
+    {
+        "field": "Hylarana taipehensis ",
+        "value": 447
+    },
+    {
+        "field": "Hylarana spinulosa ",
+        "value": 229
+    },
+    {
+        "field": "Lactobacillus ruminis ATCC 25644",
+        "value": 56
+    },
+    {
+        "field": "Streptococcus agalactiae ATCC 13813",
+        "value": 106
+    },
+    {
+        "field": "Geobacillus sp. (strain Y412MC52)",
+        "value": 56
+    },
+    {
+        "field": "Bacillus subtilis (strain BSn5)",
+        "value": 43
+    },
+    {
+        "field": "Bupleurum kaoi",
+        "value": 234
+    },
+    {
+        "field": "Streptococcus sp. C150",
+        "value": 74
+    },
+    {
+        "field": "Ambrosia trifida ",
+        "value": 235
+    },
+    {
+        "field": "Sequoia sempervirens ",
+        "value": 232
+    },
+    {
+        "field": "Mauremys mutica ",
+        "value": 706
+    },
+    {
+        "field": "Ascaris suum ",
+        "value": 164
+    },
+    {
+        "field": "Lactococcus lactis subsp. lactis (strain CV56)",
+        "value": 57
+    },
+    {
+        "field": "Plecoglossus altivelis ",
+        "value": 276
+    },
+    {
+        "field": "Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7)",
+        "value": 637
+    },
+    {
+        "field": "Acromyrmex echinatior ",
+        "value": 1616
+    },
+    {
+        "field": "Channa striata ",
+        "value": 35
+    },
+    {
+        "field": "Streptococcus pasteurianus (strain ATCC 43144 / JCM 5346 / CDC 1723-81)",
+        "value": 55
+    },
+    {
+        "field": "Fragaria chiloensis",
+        "value": 247
+    },
+    {
+        "field": "Mytilus chilensis ",
+        "value": 86
+    },
+    {
+        "field": "Crassostrea gigas ",
+        "value": 629
+    },
+    {
+        "field": "Phyllomedusa sauvagei ",
+        "value": 712
+    },
+    {
+        "field": "Prunus domestica ",
+        "value": 245
+    },
+    {
+        "field": "Curcuma amada",
+        "value": 227
+    },
+    {
+        "field": "Zingiber officinale ",
+        "value": 223
+    },
+    {
+        "field": "Staphylococcus aureus subsp. aureus LGA251",
+        "value": 47
+    },
+    {
+        "field": "Scatophagus argus ",
+        "value": 32
+    },
+    {
+        "field": "Nemipterus japonicus ",
+        "value": 66
+    },
+    {
+        "field": "Miichthys miiuy ",
+        "value": 267
+    },
+    {
+        "field": "Clitoria ternatea ",
+        "value": 1556
+    },
+    {
+        "field": "Ailuropoda melanoleuca ",
+        "value": 2878
+    },
+    {
+        "field": "Lactobacillus ruminis (strain ATCC 27782 / RF3)",
+        "value": 59
+    },
+    {
+        "field": "",
+        "value": 396
+    },
+    {
+        "field": "Botryotinia fuckeliana (strain T4)",
+        "value": 437
+    },
+    {
+        "field": "Bombyx mandarina ",
+        "value": 195
+    },
+    {
+        "field": "Pelophylax nigromaculatus ",
+        "value": 1437
+    },
+    {
+        "field": "Oryzias javanicus ",
+        "value": 179
+    },
+    {
+        "field": "Cricetulus griseus ",
+        "value": 752
+    },
+    {
+        "field": "Sarcophilus harrisii ",
+        "value": 264
+    },
+    {
+        "field": "Drosophila melanogaster ",
+        "value": 1523
+    },
+    {
+        "field": "Neurospora tetrasperma (strain FGSC 2509 / P0656)",
+        "value": 498
+    },
+    {
+        "field": "Oryzias melastigma ",
+        "value": 580
+    },
+    {
+        "field": "Heterocephalus glaber ",
+        "value": 1504
+    },
+    {
+        "field": "Danaus plexippus ",
+        "value": 1279
+    },
+    {
+        "field": "Medicago truncatula ",
+        "value": 3410
+    },
+    {
+        "field": "Parus major ",
+        "value": 170
+    },
+    {
+        "field": "Cyanistes caeruleus ",
+        "value": 135
+    },
+    {
+        "field": "Hippolais icterina ",
+        "value": 70
+    },
+    {
+        "field": "Phylloscopus collybita ",
+        "value": 35
+    },
+    {
+        "field": "Phylloscopus trochilus ",
+        "value": 120
+    },
+    {
+        "field": "Turdus merula ",
+        "value": 35
+    },
+    {
+        "field": "Turdus iliacus",
+        "value": 35
+    },
+    {
+        "field": "Muscicapa striata ",
+        "value": 35
+    },
+    {
+        "field": "Passer domesticus ",
+        "value": 146
+    },
+    {
+        "field": "Acrocephalus arundinaceus ",
+        "value": 35
+    },
+    {
+        "field": "Carduelis flammea ",
+        "value": 85
+    },
+    {
+        "field": "Alphestes immaculatus ",
+        "value": 90
+    },
+    {
+        "field": "Lates calcarifer ",
+        "value": 92
+    },
+    {
+        "field": "Prunus persica ",
+        "value": 1071
+    },
+    {
+        "field": "Trachidermus fasciatus ",
+        "value": 681
+    },
+    {
+        "field": "Cavia porcellus ",
+        "value": 860
+    },
+    {
+        "field": "Otolemur garnettii ",
+        "value": 470
+    },
+    {
+        "field": "Streptococcus macedonicus (strain ACA-DC 198)",
+        "value": 109
+    },
+    {
+        "field": "Bostrychus sinensis ",
+        "value": 688
+    },
+    {
+        "field": "Atriplex canescens ",
+        "value": 229
+    },
+    {
+        "field": "Leuconostoc carnosum",
+        "value": 67
+    },
+    {
+        "field": "Periplaneta americana ",
+        "value": 714
+    },
+    {
+        "field": "Pongo abelii ",
+        "value": 3683
+    },
+    {
+        "field": "Pan troglodytes ",
+        "value": 1982
+    },
+    {
+        "field": "Lactococcus lactis subsp. lactis IO-1",
+        "value": 57
+    },
+    {
+        "field": "Streptococcus salivarius",
+        "value": 154
+    },
+    {
+        "field": "Ctenopharyngodon idella ",
+        "value": 93
+    },
+    {
+        "field": "Enterococcus faecium (strain Aus0004)",
+        "value": 65
+    },
+    {
+        "field": "Odorrana tiannanensis ",
+        "value": 1972
+    },
+    {
+        "field": "Vicia faba ",
+        "value": 217
+    },
+    {
+        "field": "Bacillus sp. JS",
+        "value": 43
+    },
+    {
+        "field": "Brachypodium distachyon ",
+        "value": 3312
+    },
+    {
+        "field": "Solenopsis invicta ",
+        "value": 1484
+    },
+    {
+        "field": "Oreochromis niloticus ",
+        "value": 389
+    },
+    {
+        "field": "Spermophilus tridecemlineatus ",
+        "value": 559
+    },
+    {
+        "field": "Cynoglossus semilaevis ",
+        "value": 96
+    },
+    {
+        "field": "Amolops viridimaculatus ",
+        "value": 79
+    },
+    {
+        "field": "Natrinema sp. (strain J7-2)",
+        "value": 133
+    },
+    {
+        "field": "Auricularia delicata (strain TFB10046)",
+        "value": 377
+    },
+    {
+        "field": "Oryza brachyantha",
+        "value": 1993
+    },
+    {
+        "field": "Misgurnus anguillicaudatus ",
+        "value": 668
+    },
+    {
+        "field": "Acyrthosiphon pisum ",
+        "value": 744
+    },
+    {
+        "field": "Vincetoxicum mongolicum",
+        "value": 225
+    },
+    {
+        "field": "Hyriopsis cumingii ",
+        "value": 113
+    },
+    {
+        "field": "Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)",
+        "value": 571
+    },
+    {
+        "field": "Enterococcus sp. GMD4E",
+        "value": 65
+    },
+    {
+        "field": "Enterococcus sp. GMD2E",
+        "value": 65
+    },
+    {
+        "field": "Enterococcus sp. GMD1E",
+        "value": 65
+    },
+    {
+        "field": "Marssonina brunnea f. sp. multigermtubi (strain MB_m1)",
+        "value": 420
+    },
+    {
+        "field": "Setaria italica ",
+        "value": 5592
+    },
+    {
+        "field": "Solanum lycopersicum ",
+        "value": 5222
+    },
+    {
+        "field": "Streptococcus dysgalactiae subsp. equisimilis AC-2713",
+        "value": 76
+    },
+    {
+        "field": "Clostridium sp. Maddingley MBC34-26",
+        "value": 56
+    },
+    {
+        "field": "Gossypium barbadense ",
+        "value": 244
+    },
+    {
+        "field": "Carnobacterium maltaromaticum LMA28",
+        "value": 61
+    },
+    {
+        "field": "Enterococcus sp. GMD5E",
+        "value": 65
+    },
+    {
+        "field": "Steinchisma laxum",
+        "value": 324
+    },
+    {
+        "field": "Coptotermes formosanus ",
+        "value": 718
+    },
+    {
+        "field": "Colletotrichum gloeosporioides (strain Nara gc5)",
+        "value": 370
+    },
+    {
+        "field": "Myotis davidii ",
+        "value": 865
+    },
+    {
+        "field": "Desmodus rotundus ",
+        "value": 83
+    },
+    {
+        "field": "Glossophaga soricina ",
+        "value": 54
+    },
+    {
+        "field": "Eidolon helvum ",
+        "value": 82
+    },
+    {
+        "field": "Lasiurus borealis ",
+        "value": 82
+    },
+    {
+        "field": "Rousettus aegyptiacus ",
+        "value": 82
+    },
+    {
+        "field": "Carollia perspicillata ",
+        "value": 54
+    },
+    {
+        "field": "Myotis lucifugus ",
+        "value": 1402
+    },
+    {
+        "field": "Actinidia chinensis ",
+        "value": 244
+    },
+    {
+        "field": "Enterococcus faecium NRRL B-2354",
+        "value": 54
+    },
+    {
+        "field": "Bos mutus",
+        "value": 3107
+    },
+    {
+        "field": "Thanatephorus cucumeris (strain AG1-IA)",
+        "value": 3013
+    },
+    {
+        "field": "Tupaia chinensis",
+        "value": 1261
+    },
+    {
+        "field": "Natrinema pellirubrum (strain DSM 15624 / JCM 10476 / NCIMB 786)",
+        "value": 286
+    },
+    {
+        "field": "Natrinema gari JCM 14663",
+        "value": 133
+    },
+    {
+        "field": "Natrinema altunense JCM 12890",
+        "value": 248
+    },
+    {
+        "field": "Haloterrigena salina JCM 13891",
+        "value": 248
+    },
+    {
+        "field": "Haloferax lucentense (strain DSM 14919 / JCM 9276 / NCIMB 13854 / Aa 2.2)",
+        "value": 306
+    },
+    {
+        "field": "Haloferax gibbonsii ATCC 33959",
+        "value": 306
+    },
+    {
+        "field": "Haloferax alexandrinus JCM 10717",
+        "value": 306
+    },
+    {
+        "field": "Enterococcus sp. GMD3E",
+        "value": 65
+    },
+    {
+        "field": "Solanum nigrum ",
+        "value": 948
+    },
+    {
+        "field": "Chelonia mydas ",
+        "value": 677
+    },
+    {
+        "field": "Aegilops tauschii ",
+        "value": 2995
+    },
+    {
+        "field": "Musa acuminata ",
+        "value": 193
+    },
+    {
+        "field": "Cicer arietinum ",
+        "value": 175
+    },
+    {
+        "field": "Butyrivibrio fibrisolvens",
+        "value": 144
+    },
+    {
+        "field": "Drosophila silvestris ",
+        "value": 637
+    },
+    {
+        "field": "Viscum album ",
+        "value": 489
+    },
+    {
+        "field": "Phoradendron liga ",
+        "value": 46
+    },
+    {
+        "field": "Dendrophthora clavata ",
+        "value": 46
+    },
+    {
+        "field": "Hordeum vulgare ",
+        "value": 2559
+    },
+    {
+        "field": "Nicotiana tabacum ",
+        "value": 2365
+    },
+    {
+        "field": "Streptomyces sp. (strain A647P-2)",
+        "value": 19
+    },
+    {
+        "field": "Solanum commersonii ",
+        "value": 743
+    },
+    {
+        "field": "Viola hederacea ",
+        "value": 30
+    },
+    {
+        "field": "Hybanthus parviflorus ",
+        "value": 30
+    },
+    {
+        "field": "Polistes hebraeus ",
+        "value": 26
+    },
+    {
+        "field": "Vespula maculifrons ",
+        "value": 26
+    },
+    {
+        "field": "Helleborus purpurascens ",
+        "value": 46
+    },
+    {
+        "field": "Vespa velutina nigrithorax ",
+        "value": 26
+    },
+    {
+        "field": "Hevea brasiliensis ",
+        "value": 285
+    },
+    {
+        "field": "Hybanthus floribundus ",
+        "value": 95
+    },
+    {
+        "field": "Calotropis procera ",
+        "value": 40
+    },
+    {
+        "field": "Litoria rothii ",
+        "value": 25
+    },
+    {
+        "field": "Knorringia sibirica",
+        "value": 140
+    },
+    {
+        "field": "Malus domestica ",
+        "value": 984
+    },
+    {
+        "field": "Pediococcus pentosaceus (strain ATCC 25745 / 183-1w)",
+        "value": 60
+    },
+    {
+        "field": "Epinephelus awoara ",
+        "value": 87
+    },
+    {
+        "field": "Antheraea mylitta ",
+        "value": 333
+    },
+    {
+        "field": "Manduca sexta ",
+        "value": 514
+    },
+    {
+        "field": "Phyllomedusa hypochondrialis ",
+        "value": 152
+    },
+    {
+        "field": "Silene latifolia ",
+        "value": 232
+    },
+    {
+        "field": "Culex pipiens pipiens ",
+        "value": 60
+    },
+    {
+        "field": "Crocodylus niloticus ",
+        "value": 700
+    },
+    {
+        "field": "Musca domestica ",
+        "value": 127
+    },
+    {
+        "field": "Fragaria ananassa ",
+        "value": 455
+    },
+    {
+        "field": "Trifolium pratense ",
+        "value": 318
+    },
+    {
+        "field": "Larimichthys crocea ",
+        "value": 283
+    },
+    {
+        "field": "Rosa roxburghii",
+        "value": 177
+    },
+    {
+        "field": "Ictalurus furcatus ",
+        "value": 190
+    },
+    {
+        "field": "Ficus pumila var. awkeotsang ",
+        "value": 450
+    },
+    {
+        "field": "Zea diploperennis ",
+        "value": 1121
+    },
+    {
+        "field": "Hybanthus floribundus subsp. floribundus",
+        "value": 881
+    },
+    {
+        "field": "Hybanthus vernonii subsp. vernonii",
+        "value": 27
+    },
+    {
+        "field": "Salvia miltiorrhiza ",
+        "value": 121
+    },
+    {
+        "field": "Psetta maxima ",
+        "value": 423
+    },
+    {
+        "field": "Triticum monococcum ",
+        "value": 176
+    },
+    {
+        "field": "Nicotiana sylvestris ",
+        "value": 251
+    },
+    {
+        "field": "Oryza sativa ",
+        "value": 218
+    },
+    {
+        "field": "Tulipa gesneriana ",
+        "value": 578
+    },
+    {
+        "field": "Litopenaeus stylirostris ",
+        "value": 238
+    },
+    {
+        "field": "Farfantepenaeus paulensis ",
+        "value": 146
+    },
+    {
+        "field": "Cryptomeria japonica ",
+        "value": 721
+    },
+    {
+        "field": "Drosophila subobscura ",
+        "value": 126
+    },
+    {
+        "field": "Apriona germari ",
+        "value": 722
+    },
+    {
+        "field": "Lysiphlebus testaceipes ",
+        "value": 248
+    },
+    {
+        "field": "Toxoptera citricida ",
+        "value": 233
+    },
+    {
+        "field": "Litoria aurea ",
+        "value": 357
+    },
+    {
+        "field": "Geobacillus kaustophilus (strain HTA426)",
+        "value": 56
+    },
+    {
+        "field": "Pseudotsuga menziesii ",
+        "value": 699
+    },
+    {
+        "field": "Thuja occidentalis ",
+        "value": 230
+    },
+    {
+        "field": "Pagrus major ",
+        "value": 349
+    },
+    {
+        "field": "Nicotiana glauca ",
+        "value": 251
+    },
+    {
+        "field": "Solanum phureja",
+        "value": 1733
+    },
+    {
+        "field": "Acanthopagrus schlegelii ",
+        "value": 617
+    },
+    {
+        "field": "Lactobacillus sakei",
+        "value": 171
+    },
+    {
+        "field": "Pediococcus parvulus",
+        "value": 62
+    },
+    {
+        "field": "Hyalophora cecropia ",
+        "value": 42
+    },
+    {
+        "field": "Streptococcus equinus ",
+        "value": 58
+    },
+    {
+        "field": "Branchiostoma belcheri ",
+        "value": 117
+    },
+    {
+        "field": "Chenopodium quinoa ",
+        "value": 228
+    },
+    {
+        "field": "Daucus carota ",
+        "value": 214
+    },
+    {
+        "field": "Mus spicilegus ",
+        "value": 109
+    },
+    {
+        "field": "Sambucus nigra ",
+        "value": 452
+    },
+    {
+        "field": "Beta vulgaris ",
+        "value": 210
+    },
+    {
+        "field": "Polistes sp. ",
+        "value": 67
+    },
+    {
+        "field": "Trypoxylus dichotomus ",
+        "value": 432
+    },
+    {
+        "field": "Bacillus coagulans",
+        "value": 62
+    },
+    {
+        "field": "Apis mellifera mellifera ",
+        "value": 57
+    },
+    {
+        "field": "Secale cereale ",
+        "value": 482
+    },
+    {
+        "field": "Linum usitatissimum ",
+        "value": 37
+    },
+    {
+        "field": "Brassica rapa subsp. pekinensis ",
+        "value": 133
+    },
+    {
+        "field": "Vitis riparia ",
+        "value": 247
+    },
+    {
+        "field": "Enterococcus faecium EnGen0263",
+        "value": 140
+    },
+    {
+        "field": "Ziziphus jujuba ",
+        "value": 251
+    },
+    {
+        "field": "Enterococcus durans ATCC 6056",
+        "value": 54
+    },
+    {
+        "field": "Myotis brandtii",
+        "value": 77
+    },
+    {
+        "field": "Genlisea aurea",
+        "value": 242
+    },
+    {
+        "field": "Camelus ferus ",
+        "value": 780
+    },
+    {
+        "field": "Streptococcus equi subsp. zooepidemicus SzS31A1",
+        "value": 72
+    },
+    {
+        "field": "Peptoclostridium difficile Y384",
+        "value": 139
+    },
+    {
+        "field": "Bacillus licheniformis CG-B52",
+        "value": 146
+    },
+    {
+        "field": "Streptococcus dysgalactiae subsp. equisimilis 167",
+        "value": 76
+    },
+    {
+        "field": "Pseudonaja textilis ",
+        "value": 68
+    },
+    {
+        "field": "Crotalus durissus cascavella ",
+        "value": 257
+    },
+    {
+        "field": "Bothrops lutzi",
+        "value": 34
+    },
+    {
+        "field": "Lachesis muta rhombeata",
+        "value": 34
+    },
+    {
+        "field": "Clostridium saccharobutylicum DSM 13864",
+        "value": 63
+    },
+    {
+        "field": "Amolops wuyiensis",
+        "value": 142
+    },
+    {
+        "field": "Bacillus thuringiensis YBT-1518",
+        "value": 46
+    },
+    {
+        "field": "Enterococcus mundtii QU 25",
+        "value": 58
+    },
+    {
+        "field": "Morus alba ",
+        "value": 231
+    },
+    {
+        "field": "Quercus suber ",
+        "value": 249
+    },
+    {
+        "field": "Bacillus pumilus ATCC 7061",
+        "value": 41
+    },
+    {
+        "field": "Rhizoctonia solani AG-3 Rhs1AP",
+        "value": 255
+    },
+    {
+        "field": "Synthetic construct  ",
+        "value": 4663
+    },
+    {
+        "field": "Oldenlandia affinis  ",
+        "value": 29
+    },
+    {
+        "field": "Oryzias latipes",
+        "value": 88
+    },
+    {
+        "field": "Loxodonta africana",
+        "value": 257
+    },
+    {
+        "field": "Trichechus manatus latirostris",
+        "value": 83
+    },
+    {
+        "field": "Tursiops truncatus",
+        "value": 1032
+    },
+    {
+        "field": "Orcinus orca",
+        "value": 1267
+    },
+    {
+        "field": "Monodelphis domestica",
+        "value": 248
+    },
+    {
+        "field": "Holotrichia diomphalia  ",
+        "value": 127
+    },
+    {
+        "field": "Hordeum vulgare subsp. vulgare",
+        "value": 355
+    },
+    {
+        "field": "Hordeum jubatum  ",
+        "value": 137
+    },
+    {
+        "field": "Hordeum marinum",
+        "value": 137
+    },
+    {
+        "field": "Viscum album",
+        "value": 46
+    },
+    {
+        "field": "Crambe hispanica subsp. abyssinica  ",
+        "value": 1169
+    },
+    {
+        "field": "Brachypodium distachyon",
+        "value": 1464
+    },
+    {
+        "field": "Odobenus rosmarus divergens",
+        "value": 775
+    },
+    {
+        "field": "Staphylococcus aureus  ",
+        "value": 47
+    },
+    {
+        "field": "Bacillus cereus  ",
+        "value": 51
+    },
+    {
+        "field": "Streptococcus suis  ",
+        "value": 102
+    },
+    {
+        "field": "Actinomyces sp. oral taxon 448 ",
+        "value": 44
+    },
+    {
+        "field": "Lactobacillus iners  ",
+        "value": 53
+    },
+    {
+        "field": "Streptococcus  ",
+        "value": 122
+    },
+    {
+        "field": "Gardnerella vaginalis  ",
+        "value": 43
+    },
+    {
+        "field": "Enterococcus pallens  ",
+        "value": 122
+    },
+    {
+        "field": "Pediococcus acidilactici  ",
+        "value": 88
+    },
+    {
+        "field": "Pediococcus  ",
+        "value": 62
+    },
+    {
+        "field": "Pediococcus pentosaceus  ",
+        "value": 62
+    },
+    {
+        "field": "Corynebacterium matruchotii  ",
+        "value": 57
+    },
+    {
+        "field": "Bacillus  ",
+        "value": 146
+    },
+    {
+        "field": "Bacilli  ",
+        "value": 55
+    },
+    {
+        "field": "Eubacterium plexicaudatum  ",
+        "value": 135
+    },
+    {
+        "field": "Enterococcus faecium  ",
+        "value": 520
+    },
+    {
+        "field": "Enterococcus  ",
+        "value": 65
+    },
+    {
+        "field": "Lactobacillus curvatus  ",
+        "value": 61
+    },
+    {
+        "field": "Streptococcus macacae  ",
+        "value": 70
+    },
+    {
+        "field": "Enterococcus faecalis  ",
+        "value": 560
+    },
+    {
+        "field": "Lactobacillus  ",
+        "value": 56
+    },
+    {
+        "field": "Lactobacillus ruminis CAG:367  ",
+        "value": 56
+    },
+    {
+        "field": "Streptococcus criceti  ",
+        "value": 71
+    },
+    {
+        "field": "Streptococcus dysgalactiae  ",
+        "value": 152
+    },
+    {
+        "field": "Streptococcus equinus  ",
+        "value": 72
+    },
+    {
+        "field": "Bacillus subtilis  ",
+        "value": 65
+    },
+    {
+        "field": "Enterococcus durans  ",
+        "value": 71
+    },
+    {
+        "field": "Streptococcus equi  ",
+        "value": 72
+    },
+    {
+        "field": "Streptococcus infantarius  ",
+        "value": 72
+    },
+    {
+        "field": "Streptococcus caballi  ",
+        "value": 73
+    },
+    {
+        "field": "Bavariicoccus seileri  ",
+        "value": 61
+    },
+    {
+        "field": "Leuconostoc mesenteroides  ",
+        "value": 36
+    },
+    {
+        "field": "Streptococcus mitis  ",
+        "value": 73
+    },
+    {
+        "field": "Octodon degus",
+        "value": 163
+    },
+    {
+        "field": "Microtus ochrogaster",
+        "value": 174
+    },
+    {
+        "field": "Jaculus jaculus",
+        "value": 237
+    },
+    {
+        "field": "Pantholops hodgsonii",
+        "value": 164
+    },
+    {
+        "field": "Cavia",
+        "value": 62
+    },
+    {
+        "field": "Dasypus novemcinctus",
+        "value": 1007
+    },
+    {
+        "field": "Chinchilla lanigera",
+        "value": 94
+    },
+    {
+        "field": "Mus sp.  ",
+        "value": 140
+    },
+    {
+        "field": "Mus spretus",
+        "value": 23
+    },
+    {
+        "field": "Ceratotherium simum simum",
+        "value": 98
+    },
+    {
+        "field": "Geospiza fortis",
+        "value": 74
+    },
+    {
+        "field": "Taeniopygia guttata",
+        "value": 74
+    },
+    {
+        "field": "Pseudopodoces humilis ",
+        "value": 75
+    },
+    {
+        "field": "Zonotrichia albicollis ",
+        "value": 74
+    },
+    {
+        "field": "Falco cherrug",
+        "value": 78
+    },
+    {
+        "field": "Bombina sp.  ",
+        "value": 24
+    },
+    {
+        "field": "Apis dorsata",
+        "value": 97
+    },
+    {
+        "field": "Megachile rotundata",
+        "value": 136
+    },
+    {
+        "field": "Citrus sinensis",
+        "value": 4662
+    },
+    {
+        "field": "Streptomyces cinnamoneus  ",
+        "value": 78
+    },
+    {
+        "field": "Setaria italica",
+        "value": 1728
+    },
+    {
+        "field": "Glycine max",
+        "value": 1327
+    },
+    {
+        "field": "Cucumis sativus",
+        "value": 4971
+    },
+    {
+        "field": "Fragaria vesca subsp. vesca  ",
+        "value": 3526
+    },
+    {
+        "field": "Malus domestica",
+        "value": 247
+    },
+    {
+        "field": "Caenorhabditis briggsae  ",
+        "value": 234
+    },
+    {
+        "field": "Rhizoctonia solani AG-1 IB  ",
+        "value": 211
+    },
+    {
+        "field": "Solea senegalensis",
+        "value": 58
+    },
+    {
+        "field": "Odorrana tiannanensis",
+        "value": 71
+    },
+    {
+        "field": "Rana tagoi okiensis",
+        "value": 71
+    },
+    {
+        "field": "Prunus persica",
+        "value": 242
+    },
+    {
+        "field": "Ancylostoma duodenale ",
+        "value": 423
+    },
+    {
+        "field": "Androctonus  australis ",
+        "value": 59
+    },
+    {
+        "field": "Streptococcus pneumoniae ",
+        "value": 94
+    },
+    {
+        "field": "Scleropages formosus ",
+        "value": 274
+    },
+    {
+        "field": "Bacillus amyloliquefaciens subsp.  plantarum ",
+        "value": 188
+    },
+    {
+        "field": "Streptococcus  pneumoniae ",
+        "value": 188
+    },
+    {
+        "field": "Bacillus sp. Pc3 ",
+        "value": 65
+    },
+    {
+        "field": "Brevibacillus brevis ",
+        "value": 404
+    },
+    {
+        "field": "Delftia tsuruhatensis ",
+        "value": 126
+    },
+    {
+        "field": "Boreogadus saida ",
+        "value": 386
+    },
+    {
+        "field": "Theragra chalcogramma",
+        "value": 193
+    },
+    {
+        "field": "Gadus macrocephalus ",
+        "value": 760
+    },
+    {
+        "field": "Gadus ogac ",
+        "value": 376
+    },
+    {
+        "field": "Gadus chalcogrammus ",
+        "value": 543
+    },
+    {
+        "field": "Hydrophis cyanocinctus ",
+        "value": 30
+    },
+    {
+        "field": "Duttaphrynus melanostictus ",
+        "value": 164
+    },
+    {
+        "field": "Bactrocera dorsalis ",
+        "value": 64
+    },
+    {
+        "field": "Jatropha curcas ",
+        "value": 119
+    },
+    {
+        "field": "Sinocyclocheilus grahami ",
+        "value": 86
+    },
+    {
+        "field": "Boleophthalmus pectinirostris ",
+        "value": 176
+    },
+    {
+        "field": "Heterometrus spinifer ",
+        "value": 156
+    },
+    {
+        "field": "Cenchritis muricatus ",
+        "value": 39
+    },
+    {
+        "field": "Sesamum indicum ",
+        "value": 99
+    },
+    {
+        "field": "Hydrangea macrophylla ",
+        "value": 15
+    },
+    {
+        "field": "Aedes albopictus ",
+        "value": 112
+    },
+    {
+        "field": "Streptomyces violaceusniger",
+        "value": 10
+    },
+    {
+        "field": "Mesobuthus martensii ",
+        "value": 86
+    },
+    {
+        "field": "Lonomia obliqua ",
+        "value": 113
+    },
+    {
+        "field": "Acutisoma longipes ",
+        "value": 18
+    },
+    {
+        "field": "Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1)",
+        "value": 726
+    },
+    {
+        "field": "Meretrix lusoria ",
+        "value": 122
+    },
+    {
+        "field": "Crotalus viridis viridis ",
+        "value": 132
+    },
+    {
+        "field": "Crotalus oreganus concolor ",
+        "value": 86
+    },
+    {
+        "field": "Crotalus durissus cumanensis ",
+        "value": 84
+    },
+    {
+        "field": "Crotalus durissus ruruima ",
+        "value": 42
+    },
+    {
+        "field": "Crotalus adamanteus ",
+        "value": 48
+    },
+    {
+        "field": "Crotalus oreganus helleri ",
+        "value": 48
+    },
+    {
+        "field": "Vaejovis mexicanus ",
+        "value": 47
+    },
+    {
+        "field": "Lychas mucronatus ",
+        "value": 47
+    },
+    {
+        "field": "Oxyopes takobius ",
+        "value": 442
+    },
+    {
+        "field": "Nematostella vectensis ",
+        "value": 251
+    },
+    {
+        "field": "Pan troglodytes troglodytes",
+        "value": 150
+    },
+    {
+        "field": "Myotis brandtii ",
+        "value": 364
+    },
+    {
+        "field": "Mustela putorius furo ",
+        "value": 108
+    },
+    {
+        "field": "Chlorocebus sabaeus ",
+        "value": 1402
+    },
+    {
+        "field": "Fukomys damarensis ",
+        "value": 587
+    },
+    {
+        "field": "Paramisgurnus dabryanus",
+        "value": 129
+    },
+    {
+        "field": "Liza haematocheila ",
+        "value": 43
+    },
+    {
+        "field": "Astyanax mexicanus ",
+        "value": 43
+    },
+    {
+        "field": "Tetraodon nigroviridis ",
+        "value": 42
+    },
+    {
+        "field": "Luscinia svecica ",
+        "value": 40
+    },
+    {
+        "field": "Percocypris pingi",
+        "value": 43
+    },
+    {
+        "field": "Xiphophorus maculatus ",
+        "value": 46
+    },
+    {
+        "field": "Cynops fudingensis ",
+        "value": 41
+    },
+    {
+        "field": "Sylvia atricapilla ",
+        "value": 100
+    },
+    {
+        "field": "Cariama cristata ",
+        "value": 46
+    },
+    {
+        "field": "Tinamus guttatus ",
+        "value": 37
+    },
+    {
+        "field": "Spinus spinus ",
+        "value": 100
+    },
+    {
+        "field": "Stellaria media ",
+        "value": 69
+    },
+    {
+        "field": "Eumenes rubrofemoratus ",
+        "value": 30
+    },
+    {
+        "field": "Acipenser gueldenstaedtii ",
+        "value": 253
+    },
+    {
+        "field": "Chaerilus tryznai ",
+        "value": 40
+    },
+    {
+        "field": "Tityus serrulatus ",
+        "value": 58
+    },
+    {
+        "field": "Heterometrus petersii ",
+        "value": 65
+    },
+    {
+        "field": "Streptococcus pyogenes serotype M1",
+        "value": 22
+    },
+    {
+        "field": "Dinoponera quadriceps ",
+        "value": 56
+    },
+    {
+        "field": "Fagopyrum esculentum",
+        "value": 80
+    },
+    {
+        "field": "Androctonus crassicauda",
+        "value": 36
+    },
+    {
+        "field": "Sphodromantis viridis",
+        "value": 14
+    },
+    {
+        "field": "Bacillus sonorensis MT93",
+        "value": 57
+    },
+    {
+        "field": "Cenchritis muricatus",
+        "value": 46
+    }
+]
